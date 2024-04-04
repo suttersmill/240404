@@ -17,11 +17,10 @@ Disney Xd,[http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.de
 
 📡local,#genre#
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-
+TVB,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-
 翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
-
+ViuTV,http://223.71.206.22:30080/HK/viu/hls.m3u8
+Bread TV,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
