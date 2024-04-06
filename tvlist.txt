@@ -27,11 +27,16 @@ Local,#genre#
 ViuTV,http://223.71.206.22:30080/HK/viu/hls.m3u8
 Bread TV,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
-TVBS,rtmp://twcdn.top/sat/tv551
+中天,http://livetv.skycf.eu.org:80/live.m3u8?c=7
+中天亚洲,http://livetv.skycf.eu.org:80/live.m3u8?c=3
+TVBS,http://livetv.skycf.eu.org:80/live.m3u8?c=5#http://us1.qqvr.online:9000/live.m3u8?c=1#http://165.1.79.200:9000/live.m3u8?c=67#rtmp://twcdn.top/sat/tv551
 非凡新闻,rtmp://twcdn.top/sat/tv581
 民视,rtmp://twcdn.top/sat/tv051
-台视,rtmp://twcdn.top/sat/tv071
-华视,rtmp://twcdn.top/sat/tv111
+台视,rtmp://twcdn.top/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
+华视,rtmp://twcdn.top/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
+中视,rtmp://f13h.mine.nu/sat/tv091
+三立,http://livetv.skycf.eu.org:80/live.m3u8?c=12#http://165.1.79.200:9000/live.m3u8?c=95
+
 
 
 Kid,#genre#
