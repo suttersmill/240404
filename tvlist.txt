@@ -1,6 +1,6 @@
 # tvlist -selfmade
 
-News,#genre#
+International,#genre#
 NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8
 CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 ABC US,https://lnc-abc-news.tubi.video/index_1.m3u8
@@ -10,10 +10,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3
 Foxnewsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Fox,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52042
 CBS,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52005
-HBO_FAMILY,http://170.254.18.106:80/HBO_FAMILY/mono.m3u8
-Discovery Science,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52026
-Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52025
-Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
+Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 Finance,#genre#
 Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
@@ -21,12 +18,15 @@ Bloomberg,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd51
 fox business,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52043
 
 Local,#genre#
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#https://iptv.hiper25.com/TVB/video.m3u8#http://223.71.206.22:30080/HK/tvb/hls.m3u8
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+翡翠台,https://cdn-iptv.hiper25.com/TVB/tracks-v1a1/mono.m3u8#http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#https://iptv.hiper25.com/TVB/video.m3u8#http://223.71.206.22:30080/HK/tvb/hls.m3u8#http://120.238.13.198:8000/hls/21/index.m3u8#http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 ViuTV,http://223.71.206.22:30080/HK/viu/hls.m3u8
+HOY,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 Bread TV,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+
 中天,http://livetv.skycf.eu.org:80/live.m3u8?c=7
 中天亚洲,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 TVBS,http://livetv.skycf.eu.org:80/live.m3u8?c=5#http://us1.qqvr.online:9000/live.m3u8?c=1#http://165.1.79.200:9000/live.m3u8?c=67#rtmp://twcdn.top/sat/tv551
@@ -36,8 +36,15 @@ TVBS,http://livetv.skycf.eu.org:80/live.m3u8?c=5#http://us1.qqvr.online:9000/liv
 华视,rtmp://twcdn.top/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
 三立,http://livetv.skycf.eu.org:80/live.m3u8?c=12#http://165.1.79.200:9000/live.m3u8?c=95
+东森live,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 
+Knowledge,#genre#
+Discovery Science,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52026
+Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52025
+Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
 
+Entertainment,#genre#
+HBO_FAMILY,http://170.254.18.106:80/HBO_FAMILY/mono.m3u8
 
 Kid,#genre#
 Disney Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52027
