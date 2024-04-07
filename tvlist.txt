@@ -1,15 +1,19 @@
 # tvlist -selfmade
 
 Global,#genre#
-NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8
-CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-ABC US,https://lnc-abc-news.tubi.video/index_1.m3u8
-ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
-CNA singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52017
+NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 Foxnewsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Fox,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52042
-CBS,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52005
+CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52017#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52005
+CBS_News_Bay_Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+ABC newslive,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+ABC US,https://lnc-abc-news.tubi.video/index_1.m3u8
+ABC7_Bay_Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+CNA singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 Finance,#genre#
