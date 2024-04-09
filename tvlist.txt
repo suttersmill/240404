@@ -111,7 +111,7 @@ TVB,http://ali.hlspull.yximgs.com/live/21e72677c895abd88f5eaedbdcf87dbd.flv#http
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-无线新闻台,http://ali.hlspull.yximgs.com/live/17d6ac99a6b5d140e82f9d106cd3eb25.flv#http://ali.hlspull.yximgs.com/live/fc80c88766cd73fc8ba2d577a05deb91.flv#http://zsntlqj.xicp.net:8896/bysid/83#https://tvb.livednow.com/C#https://tvb.livednow.com/I-NEWS
+无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83#https://tvb.livednow.com/C#https://tvb.livednow.com/I-NEWS#http://ali.hlspull.yximgs.com/live/17d6ac99a6b5d140e82f9d106cd3eb25.flv#http://ali.hlspull.yximgs.com/live/fc80c88766cd73fc8ba2d577a05deb91.flv
 无线新闻test,http://t16.iptv200.com/live/inews.flv?sign=1712627131-e9af41343068082c48bd8c9b948c3f4a
 Now,http://ali.hlspull.yximgs.com/live/c7da29e11769d7fb10c5552cfb3a4be7.flv#http://player2.ggiptv.com/vplay.php?token=0iWiPMEmqY7rL7T1V0Xveiv%2B&tid=wintv123&id=31&p=5#
 有线新闻,http://player2.ggiptv.com/vplay.php?token=t1jmW7Bn1r4yNBDitFKyLRUH&tid=wintv123&id=6&p=5#http://player2.ggiptv.com/vplay.php?token=t1jmW7Bn1r4yNBDitFKyLRUH&tid=wintv123&id=6&p=4#http://player2.ggiptv.com/vplay.php?token=t1jmW7Bn1r4yNBDitFKyLRUH&tid=wintv123&id=6&p=3
