@@ -100,7 +100,6 @@ Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛新闻(5G专线),https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 
 Finance,#genre#
-TVB finance,http://player2.ggiptv.com/vplay.php?token=VB5E88rlyspLU5wx2VXXEWRI&tid=wintv123&id=18&p=1#http://player2.ggiptv.com/vplay.php?token=VB5E88rlyspLU5wx2VXXEWRI&tid=wintv123&id=18&p=5#http://player2.ggiptv.com/vplay.php?token=VB5E88rlyspLU5wx2VXXEWRI&tid=wintv123&id=18&p=4#http://player2.ggiptv.com/vplay.php?token=VB5E88rlyspLU5wx2VXXEWRI&tid=wintv123&id=18&p=3#http://player2.ggiptv.com/vplay.php?token=VB5E88rlyspLU5wx2VXXEWRI&tid=wintv123&id=18&p=2
 Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
 Bloomberg,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 fox business,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52043
