@@ -85,6 +85,14 @@ ABC US,https://lnc-abc-news.tubi.video/index_1.m3u8
 ABC7_Bay_Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+BBC2,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283283&extension=ts&play_token=zglR4Bz2UNAFRICABLE,http://69.64.57.208/africable/playlist.m3u8
+BBC ONE,http://81.137.213.119:4200/bysid/4164
+BBC TWO,http://81.137.213.119:4200/bysid/4287
+BBC NEWS,http://81.137.213.119:4200/bysid/4352
+BBC FOUR,http://81.137.213.119:4200/bysid/4544
+CBeebies,http://81.137.213.119:4200/bysid/4672
+BBC Parliament,http://81.137.213.119:4200/bysid/4736
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Euronews_Live,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 GB_News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
@@ -196,6 +204,7 @@ HBO_Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBO_Familyy,http://170.254.18.106:80/HBO_FAMILY/mono.m3u8
 HBO_Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 HBO_Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
+
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
 Paramount_Network,http://170.254.18.106/PARAMOUNT/index.m3u8 
 Cinemax,http://170.254.18.106/CINEMAX/index.m3u8
