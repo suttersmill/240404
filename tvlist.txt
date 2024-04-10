@@ -93,7 +93,7 @@ Euronews_Live,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 GB_News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 RT_News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 CNA singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-NHK_World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 KBS_World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -141,19 +141,9 @@ TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 东森live,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 
 Knowhow,#genre#
-Discovery Science,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52026
-Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52025
-Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
-Nat_Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild_Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-BBC_Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-BBC_Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-BBC_Home,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-
 
 Kid,#genre#
+卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
 Universal_Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
 Disney Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52027
 Disney Jr.,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52028
@@ -164,11 +154,34 @@ Documentary,#genre#
 RT_Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
+Love_Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+Wild_Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+BBC_Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+BBC_Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+BBC_Home,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
+Discovery Science,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52026
+Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52025
+Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
+Nat_Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 
 Entertainment,#genre#
 星河频道,http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
+东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
+龙祥电影,http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
+东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
+东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
+GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 AMC,http://170.254.18.106/AMC/index.m3u8
 Star,http://170.254.18.106/STAR/index.m3u8
 BET,http://170.254.18.106/BET/index.m3u8
@@ -194,8 +207,12 @@ Start_TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/1467
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 越南坚江频道(5G专线),http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 越南-CTV(5G专线),http://tv.ctvcamau.vn/live/tv/tv.m3u8
+TV(5G专线),http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+Dubai ONE(5G专线),http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 
 Sport,#genre#
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 NBA_TV,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 |UK| SKY SPORTS MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50271
 |UK| SKY SPORTS MAIN EVENT 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138134
@@ -334,26 +351,8 @@ Arirang(5G专线),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:ar
 蒙古(5G专线),http://spacetv.in/stream/WUQP6BVK17/56.m3u8
 新闻频道「朝鲜」,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-TV(5G专线),http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-ONE(5G专线),http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-
-GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
-卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
-三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
-AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
-纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
 点歌台,http://mywlkj.ddns.net:754/tv/tw3.php?id=10
-亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
-NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12
-GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
-GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
-动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 
-东森电影,http://171.108.239.92:8181/tsfile/live/1010_1.m3u8
-龙祥电影,http://171.108.239.92:8181/tsfile/live/1011_1.m3u8
-东森洋片,http://171.108.239.92:8181/tsfile/live/1016_1.m3u8
-东森超视,http://171.108.239.92:8181/tsfile/live/1023_1.m3u8
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+
+
 
