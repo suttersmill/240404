@@ -73,9 +73,6 @@ CCTV17-农业,http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&pla
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
-Feature,#genre#
-
-
 Global,#genre#
 NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 Foxnewsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
@@ -140,8 +137,6 @@ TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 三立,http://livetv.skycf.eu.org:80/live.m3u8?c=12#http://165.1.79.200:9000/live.m3u8?c=95
 东森live,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 
-Knowhow,#genre#
-
 Kid,#genre#
 卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
 Universal_Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
@@ -151,6 +146,12 @@ Disney Xd,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.deb
 Comedy_Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 
 Documentary,#genre#
+求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
 RT_Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
@@ -160,14 +161,12 @@ Wild_Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 BBC_Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 BBC_Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 BBC_Home,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
-亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
 Discovery Science,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52026
 Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52025
 Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
 Nat_Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 
-Entertainment,#genre#
+SHOW,#genre#
 星河频道,http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
@@ -209,6 +208,8 @@ MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 越南-CTV(5G专线),http://tv.ctvcamau.vn/live/tv/tv.m3u8
 TV(5G专线),http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 Dubai ONE(5G专线),http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+Feature,#genre#
 
 Sport,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
