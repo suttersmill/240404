@@ -354,6 +354,38 @@ Arirang(5G专线),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:ar
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 点歌台,http://mywlkj.ddns.net:754/tv/tw3.php?id=10
 
-
-
-
+Radio,#genre#
+NPR News,https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+VOA universal,http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+VOA cn,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+BCC中广,http://n12.rcs.revma.com/78fm9wyy2tzuv
+广东新闻广播,https://fanmingming.com/fm?id=487
+广东股市广播,https://fanmingming.com/fm?id=488
+广东音乐之声,https://fanmingming.com/fm?id=489
+广东文体广播,https://fanmingming.com/fm?id=490
+广东城市之声,https://fanmingming.com/fm?id=491
+广东珠江之声,https://fanmingming.com/fm?id=492
+广东珠江经济台,https://fanmingming.com/fm?id=493
+广东南方生活广播,https://fanmingming.com/fm?id=494
+广东羊城交通广播,https://fanmingming.com/fm?id=495
+深圳交通频率,https://fanmingming.com/fm?id=497
+深圳电台 飞扬971,https://fanmingming.com/fm?id=498
+深圳电台 生活942,https://fanmingming.com/fm?id=499
+广州新闻资讯广播,https://fanmingming.com/fm?id=728
+广州青少年广播,https://fanmingming.com/fm?id=729
+广州金曲音乐广播,https://fanmingming.com/fm?id=730
+广州经济交通广播,https://fanmingming.com/fm?id=731
+中山电台快乐888,https://fanmingming.com/fm?id=1062
+梅州电台综合广播,https://fanmingming.com/fm?id=1063
+珠海电台先锋951,https://fanmingming.com/fm?id=1064
+深圳龙岗991,https://fanmingming.com/fm?id=1065
+佛山电台924,https://fanmingming.com/fm?id=1067
+汕头电台综合广播,https://fanmingming.com/fm?id=1068
+汕头电台经济广播,https://fanmingming.com/fm?id=1071
+深圳电台先锋898,https://fanmingming.com/fm?id=1074
+汕头电台音乐之声,https://fanmingming.com/fm?id=1076
+佛山电台906,https://fanmingming.com/fm?id=1349
+佛山电台901,https://fanmingming.com/fm?id=1351
+佛山电台946,https://fanmingming.com/fm?id=1352
+佛山电台883,https://fanmingming.com/fm?id=1353
+佛山电台985,https://fanmingming.com/fm?id=1354
