@@ -367,6 +367,8 @@ Radio,#genre#
 NPR News,https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 VOA universal,http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
 VOA cn,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+bbc_world_service,https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+WBBR Bloomberg,https://24463.live.streamtheworld.com/WBBRNYAAC.aac
 BCC中广,http://n12.rcs.revma.com/78fm9wyy2tzuv
 广东新闻广播,https://fanmingming.com/fm?id=487
 广东股市广播,https://fanmingming.com/fm?id=488
