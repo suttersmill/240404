@@ -74,7 +74,7 @@ CCTV17-农业,http://101.228.122.236:9901/tsfile/live/0019_1.m3u8?key=txiptv&pla
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
 Global,#genre#
-NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8#https://lnc-fox-live-now.tubi.video/index_1.m3u8#https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 Foxnewsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Fox,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52042
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52017#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -86,6 +86,8 @@ ABC7_Bay_Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
 ABC AU,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 One America News,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
 NEWSMAX TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NEWS12,https://lnc-news12.tubi.video/index.m3u8
+First TV live,https://thefirstd-thefirst-oando-4b1fk.amagi.tv/playlist/thefirstd-thefirst-oando/playlist.m3u8
 BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 BBC2,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283283&extension=ts&play_token=zglR4Bz2UNAFRICABLE,http://69.64.57.208/africable/playlist.m3u8
@@ -101,10 +103,10 @@ GB_News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 RT_News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 CNA singapore,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-KBS_World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 Aljazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻(5G专线),https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+Korea MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+Korea KBS,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8#https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+Korea Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 Finance,#genre#
 Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
@@ -405,3 +407,7 @@ BCC中广,http://n12.rcs.revma.com/78fm9wyy2tzuv
 佛山电台946,https://fanmingming.com/fm?id=1352
 佛山电台883,https://fanmingming.com/fm?id=1353
 佛山电台985,https://fanmingming.com/fm?id=1354
+新城財經台,https://1964171372.rsc.cdn77.org/1964171372/index.m3u8
+RTHK Radio 1,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+WPRV Talks and Business,https://15123.live.streamtheworld.com/WPRVAMAAC.aac
+MSNBC talk,https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v3/newsfree/msnbcfree/master.m3u8
