@@ -77,7 +77,7 @@ Global,#genre#
 NBC,https://lnc-nbc-news-now.tubi.video/master_5.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8#https://lnc-fox-live-now.tubi.video/index_1.m3u8#https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 Foxnewsnow,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 Fox,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52042
-CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52017#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8#https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52017
 CBS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8#http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52005
 CBS_News_Bay_Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 ABC newslive,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
