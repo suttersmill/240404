@@ -147,7 +147,7 @@ TVBS,http://livetv.skycf.eu.org:80/live.m3u8?c=5#http://us1.qqvr.online:9000/liv
 镜新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=10
 民视新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=11#http://startv365.com:80/live/9794783213/6955630461/5529.m3u8#https://4gtvfreemobile-mozai.4gtv.tv/1Gsf069tWgj4Jlp6cs4ADXvs26Slv_RRmad8dwrFWk4%3d/master.m3u8?token=kSZNKJND5O4IAjrV5wsS3A&expires=1713172838&token1=9HrFVpLEmyYvSYOPp6xpRQ&expires1=1713201638&refer=MGZlZTJlZGUtMmI3OS00ZGMwLTk2YjEtZTY4MTEwZjRjZjU2&y=0#rtmp://twcdn.top/sat/tv051
 民视台湾,http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
-台视,http://livetv.skycf.eu.org:80/live.m3u8?c=4#http://startv365.com:80/live/9794783213/6955630461/5501.m3u8#http://startv365.com:80/live/9794783213/6955630461/5502.m3u8#rtmp://twcdn.top/sat/tv071#rtmp://f13h.mine.nu/sat/tv071
+台视,http://livetv.skycf.eu.org:80/live.m3u8?c=4#http://startv365.com:80/live/9794783213/6955630461/5501.m3u8#http://startv365.com:80/live/9794783213/6955630461/5502.m3u8#rtmp://twcdn.top/sat/tv071#rtmp://f13h.mine.nu/sat/tv071#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/master-ttvnews.m3u8
 华视,http://livetv.skycf.eu.org:80/live.m3u8?c=13#rtmp://twcdn.top/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
 华视CTS,http://startv365.com:80/live/9794783213/6955630461/5551.m3u8
 中视,http://livetv.skycf.eu.org:80/live.m3u8?c=6#http://startv365.com:80/live/9794783213/6955630461/5484.m3u8#rtmp://f13h.mine.nu/sat/tv091
