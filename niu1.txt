@@ -54,7 +54,7 @@
         "name": "gz course",
         "type": 3,
         "api": "https://gzclass.gztv.com/gksubjecpc/js/api.js",
-        "ext": "https://gzclass.gztv.com/gksubjecpc/js/index.js"
+        "ext": "https://gzclass.gztv.com/gksubjecpc/js/video.js?t=123"
     },
 
     {
