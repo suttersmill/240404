@@ -53,7 +53,7 @@
         "key": "gz course",
         "name": "gz course",
         "type": 3,
-        "api": "https://gzclass.gztv.com/gksubjecpc/js/api.js",
+        "api": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/web-gzclass.gztv.com/app.json",
         "ext": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/web-gzclass.gztv.com/app.json"
     },
 
