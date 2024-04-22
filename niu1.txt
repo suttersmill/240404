@@ -52,7 +52,7 @@
     {
         "key": "gz course",
         "name": "gz course",
-        "type": 3,
+        "type": 0,
         "api": "https://gzclass.gztv.com/gksubjecpc/js/api.js",
         "ext": "https://gzclass.gztv.com/gksubjecpc/js/home.js"
     },
