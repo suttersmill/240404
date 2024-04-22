@@ -53,8 +53,8 @@
         "key": "gz course",
         "name": "gz course",
         "type": 3,
-        "api": "https://gzclass.gztv.com/gksubjecpc/js/api.js",
-        "ext": "https://gzclass.gztv.com/gksubjecpc/js/jquery.min1.9.1.js"
+        "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+        "ext": "https://gzclass.gztv.com/gksubjecpc/js/api.js"
     },
 
 
