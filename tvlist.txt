@@ -123,7 +123,7 @@ TVB,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8#http://gmlive.ddns.net:5000/kun5g
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83#https://tvb.livednow.com/C#https://tvb.livednow.com/I-NEWS
+无线新闻台,http://113.83.152.28:1935/bysid/83#http://zsntlqj.xicp.net:8896/bysid/83#https://tvb.livednow.com/C#https://tvb.livednow.com/I-NEWS
 RTHKTV32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
