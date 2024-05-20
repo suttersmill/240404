@@ -153,15 +153,15 @@ TVBS台剧台,http://live.9528.eu.org/4gtv.php?channel=285
 东森新闻,http://live.9528.eu.org/4gtv.php?channel=292#http://livetv.skycf.eu.org:80/live.m3u8?c=9
 东森财经,http://live.9528.eu.org/4gtv.php?channel=293#http://livetv.skycf.eu.org:80/live.m3u8?c=14
 镜新闻,http://live.9528.eu.org/4gtv.php?channel=268#http://livetv.skycf.eu.org:80/live.m3u8?c=10
-民视新闻,http://ytb.csscc.cc:2086/live.m3u8?c=8#http://livetv.skycf.eu.org:80/live.m3u8?c=11#http://startv365.com:80/live/9794783213/6955630461/5529.m3u8#https://4gtvfreemobile-mozai.4gtv.tv/1Gsf069tWgj4Jlp6cs4ADXvs26Slv_RRmad8dwrFWk4%3d/master.m3u8?token=kSZNKJND5O4IAjrV5wsS3A&expires=1713172838&token1=9HrFVpLEmyYvSYOPp6xpRQ&expires1=1713201638&refer=MGZlZTJlZGUtMmI3OS00ZGMwLTk2YjEtZTY4MTEwZjRjZjU2&y=0#rtmp://twcdn.top/sat/tv051
-民视台湾,http://live.9528.eu.org/4gtv.php?channel=2#http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
-民视第一台,http://live.9528.eu.org/4gtv.php?channel=1
+民视新闻,http://live.9528.eu.org/4gtv.php?channel=260#http://live.9528.eu.org/4gtv.php?channel=257#http://ytb.csscc.cc:2086/live.m3u8?c=8#http://livetv.skycf.eu.org:80/live.m3u8?c=11#http://startv365.com:80/live/9794783213/6955630461/5529.m3u8#https://4gtvfreemobile-mozai.4gtv.tv/1Gsf069tWgj4Jlp6cs4ADXvs26Slv_RRmad8dwrFWk4%3d/master.m3u8?token=kSZNKJND5O4IAjrV5wsS3A&expires=1713172838&token1=9HrFVpLEmyYvSYOPp6xpRQ&expires1=1713201638&refer=MGZlZTJlZGUtMmI3OS00ZGMwLTk2YjEtZTY4MTEwZjRjZjU2&y=0#rtmp://twcdn.top/sat/tv051
+民视台湾,http://live.9528.eu.org/4gtv.php?channel=2#http://live.9528.eu.org/4gtv.php?channel=255#http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
+民视第一台,http://live.9528.eu.org/4gtv.php?channel=254#http://live.9528.eu.org/4gtv.php?channel=1
 民視戲劇,http://ytb.csscc.cc:2086/live.m3u8?c=14
 民视,http://live.9528.eu.org/4gtv.php?channel=3
 台视,http://livetv.skycf.eu.org:80/live.m3u8?c=4#http://startv365.com:80/live/9794783213/6955630461/5501.m3u8#http://startv365.com:80/live/9794783213/6955630461/5502.m3u8#rtmp://twcdn.top/sat/tv071#rtmp://f13h.mine.nu/sat/tv071#https://live.wcetv.com/hls/m3u8/ttvnews.m3u8#https://live.wcetv.com/hls/master-ttvnews.m3u8
-华视,http://live.9528.eu.org/4gtv.php?channel=6#http://livetv.skycf.eu.org:80/live.m3u8?c=13#rtmp://twcdn.top/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
+华视,http://live.9528.eu.org/4gtv.php?channel=256#http://live.9528.eu.org/4gtv.php?channel=6#http://livetv.skycf.eu.org:80/live.m3u8?c=13#rtmp://twcdn.top/sat/tv111#rtmp://f13h.mine.nu/sat/tv111
 华视CTS,http://startv365.com:80/live/9794783213/6955630461/5551.m3u8
-中视,http://ytb.csscc.cc:2086/live.m3u8?c=2#http://live.9528.eu.org/4gtv.php?channel=4#http://livetv.skycf.eu.org:80/live.m3u8?c=6#http://startv365.com:80/live/9794783213/6955630461/5484.m3u8#rtmp://f13h.mine.nu/sat/tv091
+中视,http://live.9528.eu.org/4gtv.php?channel=258#http://ytb.csscc.cc:2086/live.m3u8?c=2#http://live.9528.eu.org/4gtv.php?channel=4#http://livetv.skycf.eu.org:80/live.m3u8?c=6#http://startv365.com:80/live/9794783213/6955630461/5484.m3u8#rtmp://f13h.mine.nu/sat/tv091
 三立news,http://ytb.csscc.cc:2086/live.m3u8?c=3#http://livetv.skycf.eu.org:80/live.m3u8?c=11#http://livetv.skycf.eu.org:80/live.m3u8?c=12#http://165.1.79.200:9000/live.m3u8?c=95
 三立综合,http://startv365.com:80/live/9794783213/6955630461/5503.m3u8
 三立戏剧,http://startv365.com:80/live/9794783213/6955630461/5504.m3u8
@@ -387,6 +387,8 @@ SNY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 环游旅行家,http://live.9528.eu.org/4gtv.php?channel=288
+亚洲旅游台,http://live.9528.eu.org/4gtv.php?channel=250#http://live.9528.eu.org/4gtv.php?channel=261
+Global Trekker,http://live.9528.eu.org/4gtv.php?channel=252
 
 Tomato(5G专线),http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 CTS(5G专线),https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
