@@ -110,7 +110,7 @@ Korea Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arira
 
 Finance,#genre#
 Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
-Bloomberg,https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+Bloomberg,http://live.9528.eu.org/4gtv.php?channel=283#https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 fox business,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52043
 BloombergTV4K(5G专线),https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
 Bloomberg TV+,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -144,12 +144,15 @@ TVB_pearl,http://113.83.152.28:1935/bysid/82#http://cdn8.jdshipin.com:8880/smt.p
 凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 
 中天新闻,http://ytb.csscc.cc:2086/live.m3u8?c=10#http://ytb.csscc.cc:2086/live.m3u8?c=7#http://livetv.skycf.eu.org:80/live.m3u8?c=7#http://startv365.com:80/live/9794783213/6955630461/5553.m3u8
-寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4
+寰宇新聞,http://ytb.csscc.cc:2086/live.m3u8?c=4#http://live.9528.eu.org/4gtv.php?channel=280
+寰宇财经台,http://live.9528.eu.org/4gtv.php?channel=281
 中天亚洲,http://livetv.skycf.eu.org:80/live.m3u8?c=3
 TVBS新闻,http://live.9528.eu.org/4gtv.php?channel=291#http://ytb.csscc.cc:2086/live.m3u8?c=11#http://61.221.215.25:8800/hls/9/index.m3u8#http://livetv.skycf.eu.org:80/live.m3u8?c=5#http://us1.qqvr.online:9000/live.m3u8?c=1#http://165.1.79.200:9000/live.m3u8?c=67#rtmp://twcdn.top/sat/tv551#http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+TVBS综艺台,http://live.9528.eu.org/4gtv.php?channel=284
+TVBS台剧台,http://live.9528.eu.org/4gtv.php?channel=285
 东森新闻,http://live.9528.eu.org/4gtv.php?channel=292#http://livetv.skycf.eu.org:80/live.m3u8?c=9
 东森财经,http://live.9528.eu.org/4gtv.php?channel=293#http://livetv.skycf.eu.org:80/live.m3u8?c=14
-镜新闻,http://livetv.skycf.eu.org:80/live.m3u8?c=10
+镜新闻,http://live.9528.eu.org/4gtv.php?channel=268#http://livetv.skycf.eu.org:80/live.m3u8?c=10
 民视新闻,http://ytb.csscc.cc:2086/live.m3u8?c=8#http://livetv.skycf.eu.org:80/live.m3u8?c=11#http://startv365.com:80/live/9794783213/6955630461/5529.m3u8#https://4gtvfreemobile-mozai.4gtv.tv/1Gsf069tWgj4Jlp6cs4ADXvs26Slv_RRmad8dwrFWk4%3d/master.m3u8?token=kSZNKJND5O4IAjrV5wsS3A&expires=1713172838&token1=9HrFVpLEmyYvSYOPp6xpRQ&expires1=1713201638&refer=MGZlZTJlZGUtMmI3OS00ZGMwLTk2YjEtZTY4MTEwZjRjZjU2&y=0#rtmp://twcdn.top/sat/tv051
 民视台湾,http://live.9528.eu.org/4gtv.php?channel=2#http://startv365.com:80/live/9794783213/6955630461/5528.m3u8
 民视第一台,http://live.9528.eu.org/4gtv.php?channel=1
@@ -174,16 +177,15 @@ Hollywood,http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
 大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
 大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
 
-
-
-
 Kid,#genre#
+DreamWorks 梦工厂动画,http://live.9528.eu.org/4gtv.php?channel=282
 卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
 Universal_Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
 Disney Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52027
 Disney Jr.,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52028
 Disney Xd,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52029
 Comedy_Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+儿童卡通台,http://live.9528.eu.org/4gtv.php?channel=269
 
 Documentary,#genre#
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
