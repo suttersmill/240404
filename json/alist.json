@@ -29,20 +29,24 @@
       "name": "mediy",
       "server": "https://pan.mediy.cn/"
     },
+    {
+      "name": "新番合集",
+      "server": "https://alist.toc.icu"
+    },
+    {
+      "name": "oldming",
+      "server": "https://pan.oldming.top/"
+     }
+
+      
         {
       "name": "1ov3",
       "server": " https://1ov3.top/"
     },
     {
-      "name": "mediy",
+      "name": "sodaz",
       "server": "https://pan.sodaz.xyz/ "
-    },
-  
-    {
-      "name": "oldming",
-      "server": "https://pan.oldming.top/"
     }
-
-    
+     
   ]
 }
