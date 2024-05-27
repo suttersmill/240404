@@ -181,6 +181,17 @@
         },
 
     {
+      "key": "alist",
+      "name": "🍰┃Alist┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/alist.json"
+    },
+    
+    {
         "key": "红牛资源",
         "name": "🎀红牛|采集",
         "type": 1,
