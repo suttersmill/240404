@@ -34,9 +34,19 @@
       "server": "https://alist.toc.icu"
     },
     {
+      "name": "lookni",
+      "server": "http://look.lookni.cf:5244"
+     },
+        {
       "name": "oldming",
       "server": "https://pan.oldming.top/"
      },
+        {
+      "name": "oldming",
+      "server": "https://pan.oldming.top/"
+     },
+
+    
      
      {
       "name": "1ov3",
