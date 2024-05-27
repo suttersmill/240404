@@ -45,7 +45,11 @@
     {
       "name": "sodaz",
       "server": "https://pan.sodaz.xyz/ "
-    }
+    },
+      {
+      "name": "oldming",
+      "server": "https://pan.oldming.top/"
+     }
      
   ]
 }
