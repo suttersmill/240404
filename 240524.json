@@ -225,17 +225,6 @@
 "ext": "./js/shaoer.js" },
 
 {
-"key": "课堂教育",
-"name": "课堂教育",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
-"ext": "./js/ketang.js" },
-
-{
 "key": "小学课堂",
 "name": "小学课堂",
 "type": 3,
