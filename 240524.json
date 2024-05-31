@@ -276,7 +276,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"./spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
+            "jar":".jar/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
             "ext": "./json/小灯塔科学.json"
         },
         {
