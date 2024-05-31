@@ -222,6 +222,55 @@
             "filterable": 1,
             "ext": "./json/小学课堂.json"
         },
+        {
+"key": "课堂教育",“key”： “课堂教育”，
+"name": "课堂教育",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/ketang.js" },
+
+{
+"key": "少儿教育",
+"name": "少儿教育",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/shaoer.js" },
+
+{
+"key": "小学课堂",
+"name": "小学课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/xiaoxue.js" },
+
+{
+"key": "初中课堂",
+"name": "初中课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/chuzhong.js" },
+
+{
+"key": "高中教育",
+"name": "高中课堂",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/gaozhong.js"},
     
          {
       "key": "X开源精粹-量子",
