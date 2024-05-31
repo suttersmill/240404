@@ -41,6 +41,10 @@
       "name": "hornway",
       "server": "https://hornway.top:94//"
      },
+       {
+      "name": "hornway",
+      "server": "http://hornway.top:94//"
+     },
         {
       "name": "oldming",
       "server": "https://pan.oldming.top/"
