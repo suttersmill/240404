@@ -222,15 +222,6 @@
             "filterable": 1,
             "ext": "./json/小学课堂.json"
         },
-        {
-"key": "课堂教育",“key”： “课堂教育”，
-"name": "课堂教育",
-"type": 3,
-"api": "csp_Bili",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "./js/ketang.js" },
 
 {
 "key": "少儿教育",
