@@ -231,6 +231,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
+"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
 "ext": "./js/shaoer.js" },
 
 {
