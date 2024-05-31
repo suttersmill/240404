@@ -39,11 +39,11 @@
      },
         {
       "name": "hornway",
-      "server": "https://hornway.top:94//"
+      "server": "https://hornway.top:94"
      },
        {
       "name": "hornway",
-      "server": "http://hornway.top:94//"
+      "server": "http://hornway.top:94"
      },
         {
       "name": "oldming",
@@ -51,7 +51,7 @@
      },
        {
       "name": "yixue",
-      "server": "https://alist.echs.top/"
+      "server": "https://alist.echs.top"
      },
      
      {
@@ -64,7 +64,7 @@
     },
     {
       "name": "789cn",
-      "server": "https://a.789cn.cn/"
+      "server": "https://a.789cn.cn"
      }
      
   ]
