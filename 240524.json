@@ -180,16 +180,6 @@
             }
         },
 
-    {
-      "key": "alist",
-      "name": "🍰┃Alist┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/alist.json"
-    },
     
     {
         "key": "红牛资源",
@@ -222,7 +212,18 @@
             "filterable": 1,
             "ext": "./json/小学课堂.json"
         },
-
+    {
+      "key": "Aid",
+      "name": "急救教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "jar": "./jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
 {
 "key": "少儿教育",
 "name": "少儿教育",
@@ -233,6 +234,17 @@
 "filterable": 1,
 "jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
 "ext": "./js/shaoer.js" },
+
+{
+"key": "课堂教育",
+"name": "课堂教育",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
+"ext": "./js/ketang.js" },
 
 {
 "key": "小学课堂",
@@ -266,6 +278,17 @@
 "filterable": 1,
 "jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
 "ext": "./js/gaozhong.js"},
+
+    {
+      "key": "alist",
+      "name": "🍰┃Alist┃网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/alist.json"
+    },
     
          {
       "key": "X开源精粹-量子",
