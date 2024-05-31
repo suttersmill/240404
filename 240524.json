@@ -56,7 +56,7 @@
  
                      {
             "key": "🔥看乐鱼",
-            "name": "👓影院①",
+            "name": "乐鱼yu992",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
@@ -67,7 +67,7 @@
         },
               {
             "key": "🔥看18哈",
-            "name": "👓影院②",
+            "name": "18ha",
             "type": 3,
             "api": "./lib/merge.min.js",
             "searchable": 1,
