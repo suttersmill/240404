@@ -312,6 +312,36 @@
             "jar":"./jar/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
             "ext": "./json/小灯塔人文.json"
         },
+            {
+            "key": "儿童编程",
+            "name": "哔哩｜儿童编程",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童编程.json"
+        },
+        {
+            "key": "儿童硬笔",
+            "name": "哔哩｜儿童硬笔",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童硬笔.json"
+        },
+        {
+            "key": "儿童思维",
+            "name": "哔哩｜儿童思维",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/儿童思维.json"
+        },
     
     {
       "key": "alist",
