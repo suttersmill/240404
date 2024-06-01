@@ -320,6 +320,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
+            "jar":"./jar/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
             "ext": "./json/儿童编程.json"
         },
         {
@@ -330,6 +331,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
+            "jar":"./jar/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
             "ext": "./json/儿童硬笔.json"
         },
         {
@@ -340,6 +342,7 @@
             "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
+            "jar":"./jar/spider.jar;md5;d3fae70c3fe5b39b0d3efa334d1788ce",
             "ext": "./json/儿童思维.json"
         },
     
