@@ -356,6 +356,16 @@
       "filterable": 1,
       "ext": "./json/alist.json"
     },
+    {
+        "key": "gzclass",
+        "name": "gzclass",
+        "type": 1,
+        "api": "https://gzclass.gztv.com/gksubjecpc/js/api.js",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["一年级", "二年级", "三年级", "四年级", "五年级", "六年级", "初一", "初二", "初三", "高一", "高一", "高一"]
+    },
+    
     
          {
       "key": "X开源精粹-量子",
