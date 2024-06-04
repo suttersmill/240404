@@ -347,8 +347,6 @@
         },
 
     {"key":"cctv","name":"央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"jar": "./jar/HCCX.jar","ext":"./json/央视大全.json"},
-    {"key": "py_cctv","name": "央视py","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/fty.jar;md5;31e6192040d63714d063d5a5aba287a9","ext": "./lib/cctv.py"}
-
     
     {
       "key": "alist",
