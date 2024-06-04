@@ -3,7 +3,7 @@
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/a736240087/tvbox/main/1.json","name":"jingenge"},
         {"url":"http://tv.nxog.top/m","name":"oge"},
-        {"url":"https://codeberg.org/wmlbxwl/wmlysc/raw/branch/main/woai.json","name":"woai"},
+        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/动漫/api.json","name":"动漫"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/文艺/api.json","name":"文艺"},
