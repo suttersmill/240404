@@ -200,7 +200,7 @@
         "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
     },
 
-  {"key": "bili2","name": "bili2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": ".jar/ou.jar;md5;59f3f76c511c3b7bcae01147c5b5afc4","ext":".json/bili2.json"},
+  {"key": "bili2","name": "bili2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": ".jar/ou.jar;md5;59f3f76c511c3b7bcae01147c5b5afc4","ext":".json/哔哩套餐2.json"},
 
            {
             "key": "小学课堂",
