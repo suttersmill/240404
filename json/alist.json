@@ -37,6 +37,10 @@
       "name": "lookni",
       "server": "http://look.lookni.cf:5244"
      },
+    {
+      "name": "cdnxin",
+      "server": "https://pan.cdnxin.top/"
+    },
         {
       "name": "hornway",
       "server": "https://hornway.top:94"
