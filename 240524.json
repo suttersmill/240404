@@ -346,7 +346,8 @@
             "ext": "./json/儿童思维.json"
         },
 
-  {"key":"cctv","name":"央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"jar": "./jar/HCCX.jar","ext":"./json/央视大全.json"},
+    {"key":"cctv","name":"央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"jar": "./jar/HCCX.jar","ext":"./json/央视大全.json"},
+    {"key": "py_cctv","name": "❤️┃央视┃py","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/cctv.py"}
     
     {
       "key": "alist",
