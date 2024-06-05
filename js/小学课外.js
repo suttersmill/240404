@@ -2,7 +2,7 @@
 {"type_name": "乐乐课堂","type_id": "乐乐课堂"},
 {"type_name": "历史喵","type_id": "如果历史是一群喵"},
 {"type_name": "混知","type_id": "混知"},
-{"type_name": "记录片","type_id": "2年级语文"},
+{"type_name": "记录片","type_id": "记录片"},
 {"type_name": "2年级数学","type_id": "2年级数学"},
 {"type_name": "2年级英语","type_id": "2年级英语"},
 {"type_name": "3年级语文","type_id": "3年级语文"},
