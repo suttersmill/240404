@@ -2,8 +2,8 @@
     "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
     "classes": [
         {
-            "type_name": "1年级语文",
-            "type_id": "1年级语文"
+            "type_name": "乐乐课堂",
+            "type_id": "乐乐课堂"
         },
         {
             "type_name": "1年级数学",
