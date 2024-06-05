@@ -202,6 +202,17 @@
 
   {"key": "Bili2","name": "🅱️哔哩套餐2","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": ".jar/ou.jar;md5;59f3f76c511c3b7bcae01147c5b5afc4","ext":".json/哔哩套餐2.json"},
 
+    {
+"key": "小学知识",
+"name": "小学知识",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
+"ext": "./js/xiaoxue.js" },
+    
            {
             "key": "小学课堂",
             "name": "哔哩｜小学课堂",
