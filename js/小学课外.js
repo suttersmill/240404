@@ -37,7 +37,7 @@
 {"n": "tv","v": "11"},
 {"n": "movie","v": "23"},                                                  
 {"n": "我是肥志","v": "我是肥志"}]},
-[{"key": "search_type","name": "分类","value": [{"n": "视频","v": "video"},
+{"key": "search_type","name": "分类","value": [{"n": "视频","v": "video"},
 {"n": "番剧","v": "media_bangumi"},
 {"n": "国创","v": "167"},
 {"n": "影视","v": "media_ft"},
