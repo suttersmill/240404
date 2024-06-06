@@ -6,7 +6,7 @@
 {"type_name": "混知","type_id": "混知"},
 {"type_name": "记录片","type_id": "记录片"},
 {"type_name": "评测","type_id": "评测"},
-{"type_name": "2年级英语","type_id": "2年级英语"},
+{"type_name": "旅游","type_id": "旅游"},
 {"type_name": "3年级语文","type_id": "3年级语文"},
 {"type_name": "3年级数学","type_id": "3年级数学"},
 {"type_name": "3年级英语","type_id": "3年级英语"},
