@@ -38,6 +38,7 @@
 {"n": "movie","v": "23"},                                                  
 {"n": "我是肥志","v": "我是肥志"}]},         
 {"key":"order","name":"排序","value":[{"n":"综合排序","v":"totalrank"},{"n":"最多点击","v":"click"},{"n":"最新发布","v":"pubdate"},{"n":"最多弹幕","v":"dm"},{"n":"最多收藏","v":"stow"}]},
+{"key":"search_type","name":"search type","value":[{"n":"视频","v":"video"},{"n":"番剧","v":"media_bangum"},{"n":"专栏","v":"article"}]},             
 {"key": "duration","name": "时长","value": [{"n": "全部","v": "0"},
 {"n": "60分钟以上","v": "4"},
 {"n": "30~60分钟","v": "3"},
