@@ -92,7 +92,7 @@
 {"n": "python","v": "python"},
 {"n": "scratch","v": "scratch"},                                            
 {"n": "javascript","v": "javascript"},
-{"n": "java","v": "java"},{"n": "tvbox","v": "tvbox"},{"n": "docker","v": "docker"},{"n": "alist","v": "alist"},{"n": "excel","v": "excel"},{"n": "NP管理器","v": "NP管理器"},{"n": "wps","v": "wps"},{"n": "安卓逆向","v": "安卓逆向"},{"n": "Git入门到精通","v": "Git入门到精通"},{"n": "爬虫","v": "爬虫"},
+{"n": "java","v": "java"},{"n": "tvbox","v": "tvbox"},{"n": "docker","v": "docker"},{"n": "alist","v": "alist"},{"n": "excel","v": "excel"},{"n": "json&jar","v": "json&jar"},{"n": "wps","v": "wps"},{"n": "安卓逆向","v": "安卓逆向"},{"n": "Git","v": "Git"},{"n": "爬虫","v": "爬虫"},
 {"n": "C++","v": "C++"}]},
 {"key":"order","name":"排序","value":[{"n":"综合排序","v":"0"},{"n":"最多点击","v":"click"},{"n":"最新发布","v":"pubdate"},{"n":"最多弹幕","v":"dm"},{"n":"最多收藏","v":"stow"}]},       
 {"key": "duration","name": "时长","value": [{"n": "全部","v": "0"},
