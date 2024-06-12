@@ -16,30 +16,13 @@
   ],
 
   "sites": [
-     //{"key": "FREE1OK", "name": "码上👓猫-️️👌┃Fre┃影视", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
- //{"key": "Xinsj饭", "name": "码上👓饭-👓视觉┃直连", "type": 3, "api": "csp_Xinsj", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.hdmyy.com/", "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8a3584c3608a5412fb02a769ab3886bb"},
 {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26","ext": "https://czzy.top/"},
- //{"key": "csp_Free", "name": "👌官方①","type": 3, "api": "csp_XBPQ","searchable": 1,
-//"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
- //{"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视2", "name": "👌官方②", "type": 3, "playerType": "1", "api": "./js/lib/drpy2.min.js", "ext": "./js/lib/FreeOK2.js"},
- 
 
- // {"key": "csp_Free", "name": "👌官方①","type": 3, "api": "csp_XBPQ","searchable": 1,
-//"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok.json" }, 
-
- //{"key": "ok-vip", "name": "👌官方②", "type": 3, "api": "csp_XBPQ", "searchable": 1, 
- //  "quickSearch": 1,"playerType": "1",  "ext":"./lib/freeokvip.json","jar": "./lib/小米ab.jar"},
- // {"key": "FREE1OK-上👓猫-️️👌┃Fre┃影视", "name": "👌官方①", "type": 3, "playerType": "1", "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js", "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"},
- 
- //  {"key": "jar_码上🔥Auete", "name": "👌官方①", "type": 3, "api": "./lib/merge.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://gitee.com/bestpvp/tm/raw/master/source/nightly/sites/码上/Auete.js"},
-
-//{"key": "dr_时光机在线豆瓣", "name": "🔥X开源精粹", "type": 3, "api": "./lib/merge.min.js", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext": "./lib/豆瓣.js"},
-   {"key":"豆瓣","name":"🔥X开源精粹","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
-           {"key": "火狐资源", "name": "🔥X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
-
-               {"key": "csp_优质","name": "🔥官方①","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["欧美剧","港澳剧","台湾剧","大陆剧","日剧","海外剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","音乐","动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","动画电影","韩剧","泰剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","搞笑"]},
-               { "key": "速博资源","name": "🔥官方②","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["大陆剧","美剧","港澳剧","台湾剧","纪录片","综艺","韩剧","泰剧","日剧","动作片","喜剧片","科幻片","恐怖片","爱情片","战争片","动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
-   {"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,        "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",        "ext": {
+{"key":"豆瓣","name":"🔥X开源精粹","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":1},
+{"key": "火狐资源", "name": "🔥X影视仓", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "categories": ["内地剧", "香港剧", "欧美剧", "韩剧", "日剧", "马泰剧", "台湾剧", "动画片", "中国动漫", "日本动漫", "欧美动漫",  "战争片", "动作片", "科幻片", "纪录片", "爱情片", "喜剧片", "灾难片", "悬疑片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺"]}, 
+{"key": "csp_优质","name": "🔥官方①","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php?ac=list ","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": ["欧美剧","港澳剧","台湾剧","大陆剧","日剧","海外剧","纪录片","大陆综艺","港台综艺","日韩综艺","欧美综艺","音乐","动作片","喜剧片","科幻片","奇幻片","恐怖片","灾难片","悬疑片","爱情片","战争片","动画电影","韩剧","泰剧","动画片","动漫","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","搞笑"]},
+{ "key": "速博资源","name": "🔥官方②","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/","playUrl": "", "searchable": 1,"quickSearch": 1,"categories": ["大陆剧","美剧","港澳剧","台湾剧","纪录片","综艺","韩剧","泰剧","日剧","动作片","喜剧片","科幻片","恐怖片","爱情片","战争片","动漫电影","动漫","中国动漫","日本动漫","欧美动漫","港台动漫"]},
+{"key":"🔥码上看Voflix","name":"🔥官方③","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,        "jar": "./custom_spider_20240420_2.tms;md5;bffed34f9f7ba3b644eba4f6df36bab0",        "ext": {
                 "siteUrl": "https://www.voflix.vip","jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"
               //  "jxToken": "tm://tm/jxToken.txt"
             }},
