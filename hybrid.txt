@@ -7,6 +7,5 @@
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"影视"}
-	
 	]
 }
