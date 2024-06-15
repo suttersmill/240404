@@ -222,9 +222,7 @@
 "jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
 "ext": "./js/gaozhong.js"},
 
-{"key":"哔哩小学","name":"🅱小学｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://rihou.cc:88/hccx/哔哩小学.json"},
-{"key":"哔哩初中","name":"🅱初中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://rihou.cc:88/hccx/哔哩初中.json"},
-{"key":"哔哩高中","name":"🅱高中｜教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://rihou.cc:88/hccx/哔哩高中.json"}],
+
               {
             "key": "儿童编程",
             "name": "哔哩｜儿童编程",
