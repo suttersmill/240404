@@ -178,6 +178,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",   
             "ext": "./json/小学课堂.json"
         },
 {
@@ -465,10 +466,7 @@
 {"host": "*", "rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*|http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)|http((?!http).)*?xg.php\\?id=|http((?!http).)*?/m3/(.*)\\.css"]}
 
     ],  
-    
-
-
-
+   
 
     "flags": ["m1905", "芒 果 T V", "tudou", "搜狐", "renrenmi", "qq", "mgtv", "pptv", "bfm3u8", "优酷", "duoduozy", "lz", "爱 奇 艺", "leshi", "lzm3u8", "ff", "letv", "乐 视", "搜 狐", "哔 哩 哔 哩", "youku", "乐视", "腾讯视频", "xinluan", "哔 哩", "奇艺", "snm3u8", "imgo", "搜狐视频", "芒果TV", "csm3u8", "bilibili", "iqiyi", "tkqp", "爱奇艺", "qiyi", "XRJX", "优酷视频", "腾 讯", "tgqp", "sohu", "腾讯", "xigua", "优 酷", "芒果", "bf", "sn", "ddzy", "ffm3u8", "wasu"], 
     
