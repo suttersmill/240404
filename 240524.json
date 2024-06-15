@@ -33,7 +33,7 @@
                 "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"
             }},
 
-    {"key":"csp_南瓜","name":"🅱️南瓜影视|T追剧","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
+    {"key":"csp_南瓜","name":"🅱️南瓜影视|T追剧","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,  "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
  
                      {
             "key": "🔥看乐鱼",
