@@ -7,7 +7,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./tvlist.txt",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/tvlist.txt",
       "playerType": 1,
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
