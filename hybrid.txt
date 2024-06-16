@@ -2,8 +2,8 @@
 	[
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"240612"},
-        {"url":"http://www.wya6.cn/tv/yc.json","name":"douzhang"},
-        {"url":"http://饭太硬.com/tv"},
+        {"url":"http://www.wya6.cn/tv/yc.json","name":"drpy"},
+        {"url":"http://饭太硬.com/tv","name":"fan"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"gao"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/a736240087/tvbox/main/1.json","name":"jingenge"},
         {"url":"http://tv.nxog.top/m","name":"oge"},
