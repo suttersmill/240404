@@ -6,7 +6,6 @@
       "server": "http://alist.xiaoya.pro",
       "search": false
     },
-
     {
     "name": "yixue",
     "server": "http://alist.echs.top/"
@@ -16,7 +15,6 @@
       "name": "七米藍",
       "server": "https://al.chirmyram.com"
     },
-   
     {
       "name": "追番",
       "server": "https://zhuifan.link"
@@ -61,8 +59,7 @@
       "name": "yixue",
       "server": "https://alist.echs.top"
      },
-     
-     {
+    {
       "name": "1ov3",
       "server": " https://1ov3.top/"
     },
@@ -74,6 +71,5 @@
       "name": "789cn",
       "server": "https://a.789cn.cn"
      }
-     
   ]
 }
