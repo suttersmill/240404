@@ -152,8 +152,7 @@
 					{
       "name": "小雅",
       "server": "http://alist.xiaoya.pro",
-      "search": false
-    },
+       },
     {
     "name": "yixue",
     "server": "http://alist.echs.top/"
