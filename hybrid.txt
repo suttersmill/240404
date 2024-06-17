@@ -1,6 +1,7 @@
 {"urls":
 	[
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
+        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240531.json","name":"240531"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"240612"},
         {"url":"http://www.wya6.cn/tv/yc.json","name":"drpy"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
