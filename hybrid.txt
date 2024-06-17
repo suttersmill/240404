@@ -4,6 +4,7 @@
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"240612"},
         {"url":"http://www.wya6.cn/tv/yc.json","name":"drpy"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
+        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json","name":"qist"},
         {"url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json","name":"xsource"},
         {"url":"http://饭太硬.com/tv","name":"fan"},
         {"url":"http://like.肥猫.com/你好","name":"fatcat"},
