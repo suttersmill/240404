@@ -301,7 +301,8 @@
   ],
 
 "parses":[
-{"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"} 
+//{"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"} 
+{"name":"哔哩","url":""https://jx.xmflv.com/?url=","type":1,"ext":{"flag":["bilibili"]},  
 //{"name":"哔哩","url":"http://localhost:5705/parse/api/哔哩.js?url=","type":1,"ext":{"flag":["bilibili"]},
 "header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"轮询","type":2,"url":"Sequence","header":{"User-Agent":"Mozilla/5.0"}},
