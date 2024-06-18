@@ -277,7 +277,11 @@
         "changeable": 1,
         "categories": ["一年级", "二年级", "三年级", "四年级", "五年级", "六年级", "初一", "初二", "初三", "高一", "高一", "高一"]
     },
-      
+       {"key": "qysp","name": "奇艺┃视频","type": 3,"api": "MJS_qysp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/奇艺视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "txsp","name": "腾讯┃视频","type": 3,"api": "MJS_txsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/腾讯视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "yksp","name": "优酷┃视频","type": 3,"api": "MJS_yksp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/优酷视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "mgsp","name": "芒果┃视频","type": 3,"api": "MJS_mgsp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/芒果视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
+    {"key": "sgys","name": "搜狗┃视频","type": 3,"api": "MJS_sgys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://cdn.teyonds.com/js/搜狗视频.js","api": "http://cdn.teyonds.com/js/drpy2.min.js"},
          {
       "key": "X开源精粹-量子",
       "name": "关注公众号：开源精粹",
