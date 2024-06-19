@@ -57,7 +57,7 @@
             "filterable": 1,
             "ext": "./json/TVB云播.json"  
            },
-    {
+           { 
             "key": "cjzy_360资源",
             "name": "🧭云播②",
             "type": 1,
@@ -93,27 +93,7 @@
                 "港台综艺"
             ]
         },
-   
- {
-
-      "key": "csp_rbzj",
-
-      "name": "热播之家",
-
-      "type": 3,
-
-      "api": "csp_XBPQ",
-
-      "searchable": 1,
-
-      "quickSearch": 1,
-
-      "filterable": 1,
-
-      "ext": "./lib/热播之家.json"
-
-    },
- {
+     {
       "key": "ikanbot3",
       "name": "🧞独家①",
       "type": 3,
