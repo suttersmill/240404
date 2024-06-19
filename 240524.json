@@ -170,7 +170,8 @@
 "quickSearch": 0,
 "filterable": 1,
 "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1",
-"ext": "./js/小学课外.js" },
+"ext": "./js/小学课外.js" 
+},
     
               {
             "key": "小学课堂",
@@ -192,7 +193,8 @@
 "quickSearch": 0,
 "filterable": 1,
 "jar": "./jar/cc.jar;md5;125712f0807f914eae788cd96348e259",
-"ext": "./js/shaoer.js" },
+"ext": "./js/shaoer.js" 
+},
 {
 "key": "小学课堂",
 "name": "小学课堂",
