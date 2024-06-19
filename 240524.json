@@ -33,7 +33,7 @@
                 "jxToken": "17c8e2cd8a01e18f0e799db16b11d1e36800715695646"
             }},
 
-    {"key":"csp_南瓜","name":"南瓜影视","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,  "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
+{"key":"csp_南瓜","name":"南瓜影视","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,  "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
  
               {
             "key": "看18哈",
@@ -57,6 +57,7 @@
             "filterable": 1,
             "ext": "./json/TVB云播.json"  
            },
+    {"key":"cjzy_360资源","name":"🧭云播②","type":1,"api":"https://360zy.com/api.php/provide/vod","playUrl":"","categories":["国产剧","国产动漫","香港剧","台湾剧","欧美剧","日韩动漫","NBA","短片","西部片","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","惊悚片","悬疑片","犯罪片","剧情片","战争片","家庭篇","记录片","历史片","动漫片","大陆综艺","港台综艺"]},
    {
             "key": "cjzy_360资源",
             "name": "🧭云播②",
