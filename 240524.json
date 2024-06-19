@@ -35,17 +35,6 @@
 
     {"key":"csp_南瓜","name":"南瓜影视","type":3,"api":"csp_AppHccxNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,  "jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar","ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
  
-                     {
-            "key": "🔥看乐鱼",
-            "name": "乐鱼",
-            "type": 3,
-            "api": "./lib/merge.min.js",
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitlab.com/mfkdy/cy/-/raw/main/lib/leyu.js"
-        },
               {
             "key": "看18哈",
             "name": "EighteenHa",
@@ -161,6 +150,7 @@
         "changeable": 1,
         "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
     },
+{"key":"课外学习","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1","ext":"./js/小学课外.js"},    
 {
 "key": "小学课外",
 "name": "小学课外",
