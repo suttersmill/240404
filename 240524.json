@@ -240,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./json/alist.json"
+      "ext": "https://gh.con.sh/https://github.com/suttersmill/240404/blob/main/json/alist.json"
     },
     {
         "key": "gzclass",
