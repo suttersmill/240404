@@ -766,16 +766,6 @@ Local,#genre#
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
-Finance,#genre#
-Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
-Bloomberg,http://live.9528.eu.org/4gtv.php?channel=283#https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-fox business,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52043
-BloombergTV4K(5G专线),https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
-Bloomberg TV+,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-Globetrotter,http://live.9528.eu.org/4gtv.php?channel=288
-
 HKTW,#genre#
 凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://122.224.232.218:8888/rtp/233.50.200.191:5140#http://171.88.42.147:8888/udp/239.93.0.162:2192#http://60.164.228.49:4040/udp/239.255.30.50:8231
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://60.164.228.49:4040/udp/239.255.30.70:8231
@@ -838,6 +828,16 @@ Hollywood,http://startv365.com:80/live/9794783213/6955630461/5526.m3u8
 大愛一臺,http://ytb.csscc.cc:2086/live.m3u8?c=5
 大愛二臺,http://ytb.csscc.cc:2086/live.m3u8?c=9
 
+Finance,#genre#
+Cnbc,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52016
+Bloomberg,http://live.9528.eu.org/4gtv.php?channel=283#https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/b4ae618fdd5191947c45c2251a7607f3.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+fox business,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52043
+BloombergTV4K(5G专线),https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+Bloomberg TV+,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+Globetrotter,http://live.9528.eu.org/4gtv.php?channel=288
+
 Kid,#genre#
 DreamWorks 梦工厂动画,http://live.9528.eu.org/4gtv.php?channel=282
 卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
@@ -854,7 +854,7 @@ Documentary,#genre#
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-动物星球,動物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
 上海纪实 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 北京纪实科教 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
