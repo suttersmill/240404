@@ -838,16 +838,6 @@ Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 Globetrotter,http://live.9528.eu.org/4gtv.php?channel=288
 
-Kid,#genre#
-DreamWorks 梦工厂动画,http://live.9528.eu.org/4gtv.php?channel=282
-卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
-Universal_Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
-Disney Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52027
-Disney Jr.,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52028
-Disney Xd,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52029
-Comedy_Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-儿童卡通台,http://live.9528.eu.org/4gtv.php?channel=269
-
 Documentary,#genre#
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
@@ -855,8 +845,7 @@ Documentary,#genre#
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://mywlkj.ddns.net:754/tv/tw3.php?id=15
-亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
-上海纪实 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海纪实 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8#http://mywlkj.ddns.net:754/tv/tw3.php?id=11
 北京纪实科教 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 RT_Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
@@ -872,7 +861,17 @@ Discovery Life,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegov
 Discovery Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52023
 Nat_Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 
-SHOW,#genre#
+Kid,#genre#
+DreamWorks 梦工厂动画,http://live.9528.eu.org/4gtv.php?channel=282
+卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
+Universal_Kids,http://streamsy.online:2999/coachj88/N93DPKS9pJ/252
+Disney Channel,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52027
+Disney Jr.,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52028
+Disney Xd,http://vp-txpro.com:80/hrvati.su.brabonjci.od.ovce.dsuki.i.njegovi.debili.kurtiju.karu.glabaju.mame.vam.jebemo.hrvatske.i.zene.vase.i.sestre.redom.kurvetine.glupe.jebemo.u.usta/210digger/52029
+Comedy_Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+儿童卡通台,http://live.9528.eu.org/4gtv.php?channel=269
+
+Show,#genre#
 星河频道,http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
