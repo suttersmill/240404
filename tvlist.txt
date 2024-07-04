@@ -853,8 +853,11 @@ Documentary,#genre#
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,動物星球,http://61.221.215.25:8800/hls/57/index.m3u8#http://mywlkj.ddns.net:754/tv/tw3.php?id=15
 亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
+上海纪实 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+北京纪实科教 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 RT_Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 Documentary+,https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
