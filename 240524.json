@@ -240,6 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./jar/fan.txt;md5;078b93811264de157d3e38f18f11de8c",
       "ext": "https://gh.con.sh/https://github.com/suttersmill/240404/blob/main/json/alist.json"
     },
     {
