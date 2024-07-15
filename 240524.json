@@ -242,6 +242,7 @@
       "filterable": 1,
       "ext": "./json/alist.json"
     },
+    {"key":"drpy_js_蜻蜓FM","name":"广播 | 蜻蜓FM[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js","playerType":"2"},
     {
         "key": "gzclass",
         "name": "gzclass",
