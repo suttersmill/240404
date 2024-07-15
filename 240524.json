@@ -240,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": ./json/alist.json"
+      "ext": "./json/alist.json"
     },
     {
         "key": "gzclass",
