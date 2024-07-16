@@ -15,23 +15,7 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-   // {
-      "key": "豆瓣",
-      "name": "🐼┃豆瓣┃预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "playerType": 2,
-      "searchable": 0
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://duopan.fun/"
-    },
+
     {
       "key": "nangua",
       "name": "🎃┃南瓜┃影视",
