@@ -142,7 +142,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
+{"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {
       "key": "alist",
       "name": "🍰┃小鸭┃网盘",
@@ -151,20 +151,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://js.xn--z7x900a.com/js/alist.json"
-    },
-      
-    {
-      "key": "alist2",
-      "name": "alist2",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
-      
+       
  {"key":"课外学习","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1","ext":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/js/小学课外.js"},    
 {
 "key": "小学课外",
