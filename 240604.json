@@ -184,7 +184,7 @@
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
     {
-      "key": "alist",
+      "key": "alist(gh)",
       "name": "alist(gh)",
       "type": 3,
       "api": "csp_AList",
