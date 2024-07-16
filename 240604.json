@@ -153,9 +153,10 @@
       "filterable": 1,
       "ext": "http://js.xn--z7x900a.com/js/alist.json"
     },
-      {
-      "key": "alist",
-      "name": "alist",
+      
+    {
+      "key": "alist2",
+      "name": "alist2",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
