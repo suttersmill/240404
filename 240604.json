@@ -155,7 +155,7 @@
     },
       {
       "key": "alist",
-      "name": "🍰┃小鸭┃网盘",
+      "name": "alist",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -163,6 +163,17 @@
       "filterable": 1,
       "ext": "./json/alist.json"
     },
+ {"key":"课外学习","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1","ext":"./js/小学课外.js"},    
+{
+"key": "小学课外",
+"name": "小学课外",
+"type": 3,
+"api": "csp_Bili",
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"ext": "./js/小学课外.js" 
+},
     {
       "key": "csp_BookTing",
       "name": "📚┃听书┃音频",
