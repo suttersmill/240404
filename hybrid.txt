@@ -12,6 +12,7 @@
         {"url":"http://饭太硬.com/tv","name":"fan"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"gao"},
+        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"gao0821"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/a736240087/tvbox/main/1.json","name":"jingenge"},
         {"url":"http://tv.nxog.top/m","name":"oge"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
