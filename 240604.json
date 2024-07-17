@@ -154,7 +154,9 @@
             "quickSearch": 1,
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
             "changeable": 1
-        },      
+        }, 
+{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
+      
  {
         "key": "红牛资源",
         "name": "🎀红牛|采集",
