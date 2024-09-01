@@ -16,6 +16,7 @@
         {"url":"http://ok321.top/tv","name":"ok321"},
         {"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"Dguy"},
         {"url":"https://www.100km.top/0","name":"100km"},
+        {"url":"http://ztha.top/TVBox/FLCK.json","name":"ztha.top"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
 	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
