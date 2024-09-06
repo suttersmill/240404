@@ -3,8 +3,8 @@
 //  欢迎加入肥羊影音数码综合交流群：https://t.me/feiyangdigital
 //  奈飞、YouTuBe、HBO、Disney、ChatGPT、Apple TV、家庭影音搭建必备品：https://hezu.v1.mk
 
-{"spider": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
-  //"spider": "http://js.xn--z7x900a.com/PandaQ240816.jar;md5;5f75ec13c1435ce43a239bb5fe8d8c75",
+{//"spider": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
+  "spider": "http://js.xn--z7x900a.com/PandaQ240816.jar;md5;5f75ec13c1435ce43a239bb5fe8d8c75",
   //"spider": "https://like.xn--z7x900a.com/jar/PandaQ240727.jar;md5;df2f10384aab33229e15dbfb77f02edf",  
   //"spider": "https://like.xn--z7x900a.com/jar/PandaQ240713.jar;md5;d78e744411c59f40e8099bf56fa425d2",
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
