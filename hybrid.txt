@@ -2,7 +2,7 @@
 	[
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
-        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"240612"},
+        {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/fan240619.json","name":"fan0619"},
         {"url":"https://pastebin.com/raw/5NHaxyGR","name":"drpy"},
         {"url":"http://meowtv.cn/tv","name":"meowTV"},
