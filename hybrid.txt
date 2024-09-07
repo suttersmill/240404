@@ -3,7 +3,7 @@
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
-        {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/fan240619.json","name":"fan0619"},
+        {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
         {"url":"https://pastebin.com/raw/5NHaxyGR","name":"drpy"},
         {"url":"http://meowtv.cn/tv","name":"meowTV"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
