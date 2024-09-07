@@ -11,6 +11,7 @@
         {"url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json","name":"xsource"},
         {"url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json","name":"xsource.cy"},
         {"url":"http://饭太硬.com/tv","name":"fan"},
+        {"url":"http://www.xn--sss604efuw.com/tv/","name":"fan2"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"https://raw.liucn.cc/box/m.json","name":"LiuBei"},
         {"url":"http://ok321.top/tv","name":"ok321"},
