@@ -166,6 +166,18 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
             "changeable": 1
         },
+     {
+      "key": "君君",
+      "name": "🚗君君┃1080P",
+      "playerType": 1,
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },   
    {
       "key": "freeok",
       "name": "🦁freeOK┃独家",
