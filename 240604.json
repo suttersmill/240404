@@ -168,7 +168,7 @@
         },
      {
       "key": "君君",
-      "name": "🚗君君┃1080P",
+      "name": "君君",
       "playerType": 1,
       "type": 3,
       "changeable": 0,
@@ -176,6 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",
       "ext": "http://122.228.85.203:1000/api.php/app/"
     },   
    {
