@@ -167,6 +167,17 @@
             "changeable": 1
         },
      {
+      "key": "csp_瓜子",
+      "name": "🌰瓜子┃1080P",
+      "api": "csp_Gz360",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",   
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0
+    }, 
+     {
       "key": "君君",
       "name": "君君",
       "playerType": 1,
@@ -181,7 +192,7 @@
     },   
    {
       "key": "freeok",
-      "name": "🦁freeOK┃独家",
+      "name": "🦁freeOK┃记录",
       "type": 3,
       "changeable": 0,
       "searchable": 1,
