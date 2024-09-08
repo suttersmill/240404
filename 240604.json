@@ -184,6 +184,9 @@
       "name": "🦁freeOK┃独家",
       "type": 3,
       "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",
       "api": "csp_FreeOK"
