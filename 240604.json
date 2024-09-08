@@ -166,6 +166,14 @@
             "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
             "changeable": 1
         },
+   {
+      "key": "huohuo",
+      "name": "💥火火┃1080P",
+      "type": 3,
+      "changeable": 0,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",   
+      "api": "csp_SaoHuo"
+    },
      {
       "key": "csp_瓜子",
       "name": "瓜子",
