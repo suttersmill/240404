@@ -237,8 +237,8 @@
       "changeable": 0,
       "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
     }, 
-     {"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","searchable":0,"quickSearch":0,"filterable":1},
+     {"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_sp_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},    
 //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
       
