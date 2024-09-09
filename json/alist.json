@@ -7,6 +7,12 @@
       "search": false
     },
     {
+            "name": "小雅2",
+            "search": true,
+            "hidden": false,
+            "server": "http://123.60.39.43:5678"
+        },
+    {
     "name": "yixue",
     "server": "http://alist.echs.top/"
     },
