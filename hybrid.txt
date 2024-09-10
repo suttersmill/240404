@@ -2,6 +2,7 @@
 	[
 	{"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
         {"url":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
+        {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
         {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
         {"url":"https://pastebin.com/raw/5NHaxyGR","name":"drpy"},
@@ -12,7 +13,7 @@
         {"url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json","name":"xsource.cy"},
         {"url":"http://饭太硬.com/tv","name":"fan"},
         {"url":"http://www.xn--sss604efuw.com/tv/","name":"fan2"},
-        {"url":"http://肥猫.com","name":"fatcat"},
+        {"url":"https://box.iqinu.com/","name":"iqinu"},
         {"url":"https://raw.liucn.cc/box/m.json","name":"LiuBei"},
         {"url":"http://ok321.top/tv","name":"ok321"},
         {"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"Dguy"},
