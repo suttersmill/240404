@@ -245,9 +245,9 @@
       "key": "优酷",
       "name": "七星🌟┃优酷官",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://gitlab.com/tvtg/qx/-/raw/main//lib/drpy2.min.js",
      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
-      "ext": "./lib/youku.js"
+      "ext": "https://gitlab.com/tvtg/qx/-/raw/main//lib/youku.js"
     },
       //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
       
