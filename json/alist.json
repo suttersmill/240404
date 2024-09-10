@@ -79,6 +79,10 @@
       "name": "clun",
       "server": "http://pan.clun.top/"
     },
+     {
+      "name": "cluns",
+      "server": "https://pan.clun.top/"
+    },
     {
       "name": "sodaz",
       "server": "https://a.sodaz.xyz/"
