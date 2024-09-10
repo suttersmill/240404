@@ -323,7 +323,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
-    },    
+    },
+      {"key":"🚨AList","name":"AList wujie","type":3,"api":"csp_AList","ext":"https://www.xn--rgv465a.top//box/json/alist.json","searchable":1,"changeable":0,"jar":"https://www.xn--rgv465a.top//box/spider/pg.jar"},
  {"key":"课外学习","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fb698601b0df62903eecd7d4f0bbf1d1","ext":"https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
 {
 "key": "小学课外",
