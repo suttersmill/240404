@@ -249,6 +249,41 @@
      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main//lib/youku.js"
     },
+        {
+      "key": "腾讯",
+      "name": "七星🌟┃腾讯官",
+      "type": 3,
+      "api": "https://gitlab.com/tvtg/qx/-/raw/main/lib/drpy2.min.js",
+      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",     
+      "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/tengxun.js"
+    },
+    {
+      "key": "芒果",
+      "name": "七星🌟┃芒果官",
+      "type": 3,
+      "api": "https://gitlab.com/tvtg/qx/-/raw/main/lib/drpy2.min.js",
+       "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
+      "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/mangguo.js"
+    },
+    {
+      "key": "搜狗",
+      "name": "七星🌟┃搜狗官",
+      "type": 3,
+      "api": "https://gitlab.com/tvtg/qx/-/raw/main/lib/drpy2.min.js",
+      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar", 
+      "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/caigou.js"
+    },
+    {
+      "key": "360影视",
+      "name": "七星🌟┃叁六零",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
       //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
       
  {
