@@ -26,7 +26,15 @@
       "playerType": "2",
       "api": "http://js.xn--z7x900a.com/js/ng_open.js"
     },
-  
+        {
+      "key": "兄弟",
+      "name": "👯┃兄弟┃影视",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
       
     {
       "key": "FreeOK",
@@ -37,64 +45,12 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "毛驴",
-      "name": "🦙┃毛驴┃影视",
-      "type": 3,
-      "api": "csp_MaoLv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "兄弟",
-      "name": "👯┃兄弟┃影视",
-      "type": 3,
-      "api": "csp_Xdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "可可",
-      "name": " 😝┃可可┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
-      "key": "云播影视",
-      "name": "☁️┃云播┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
-      "ext": "http://js.xn--z7x900a.com/js/TVB云播.js"
-    },
-    {
-      "key": "csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "playerType": "2"
-    },
 
-   {
-      "key": "csp_SC1080",
-      "name": "🏰┃圣城┃影视",
-      "type": 3,
-      "api": "csp_SC1080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 //{"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"},
     
 //{"key":"Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724591087642/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},      
-{"key":"小点","name":"小点┃多线","type":3,"api":"csp_Appxdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"}, 
+//{"key":"Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724591087642/fan.txt;md5;5f4edf28f8ec1b165b962e9888dc497c","ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},      
+//{"key":"小点","name":"小点┃多线","type":3,"api":"csp_Appxdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"}, 
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"}, 
 //{"key":"文采","name":"wencai┃秒播","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},        
 {"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},      
@@ -102,7 +58,7 @@
 
    {
       "key": "huohuo",
-      "name": "💥火火┃1080P",
+      "name": "火火",
       "type": 3,
       "changeable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",   
@@ -144,7 +100,25 @@
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",
       "api": "csp_FreeOK"
-    }, 
+    },
+     {
+        "key": "红牛资源",
+        "name": "🎀红牛|采集",
+        "type": 1,
+        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影"]
+    },
+    {
+        "key": "极速资源",
+        "name": "🎀极速|采集",
+        "type": 1,
+        "api": "https://jszyapi.com/api.php/provide/vod/",
+        "searchable": 1,
+        "changeable": 1,
+        "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
+    },  
 {"key":"py_cctvdc","name":"央视片库","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://530.my3v.work/lib/fff.json;md5;c84c36278bd8bc95a63449a128074be0","ext":"https://530.my3v.work/lib/py_cctvdc.json"},
    {
       "key": "hipy_js_腾云驾雾[官]",
@@ -220,25 +194,7 @@
       "changeable": 0
     },
       //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
-      
- {
-        "key": "红牛资源",
-        "name": "🎀红牛|采集",
-        "type": 1,
-        "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "searchable": 1,
-        "changeable": 1,
-        "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影"]
-    },
-    {
-        "key": "极速资源",
-        "name": "🎀极速|采集",
-        "type": 1,
-        "api": "https://jszyapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "changeable": 1,
-        "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
-    },
+     
     {
       "key": "alist",
       "name": "🍰┃小鸭┃网盘",
@@ -462,6 +418,51 @@
       "filterable": 1,
       "ext": "https://czzy.top/"
     }, 
+        {
+      "key": "毛驴",
+      "name": "🦙┃毛驴┃影视",
+      "type": 3,
+      "api": "csp_MaoLv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+    {
+      "key": "可可",
+      "name": " 😝┃可可┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "云播影视",
+      "name": "☁️┃云播┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
+      "ext": "http://js.xn--z7x900a.com/js/TVB云播.js"
+    },
+    {
+      "key": "csp_Xb6v",
+      "name": "🐤┃6V磁力┃影视",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "playerType": "2"
+    },
+
+   {
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },  
     {
       "key": "drpy_哔哩",
       "name": "🅱┃哔哩┃合集",
