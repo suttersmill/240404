@@ -269,6 +269,27 @@
       },
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     }, 
+     {
+      "key": "drpy_哔哩",
+      "name": "🅱┃哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "playerType": 1,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
+    }, 
+        {
+      "key": "csp_FirstAid",
+      "name": "🚑┃急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "gridview": "0-0-4.1"
+    },
     {
       "key": "csp_BookTing",
       "name": "📚┃听书┃音频",
@@ -308,20 +329,7 @@
       "playerType": "2",
       "api": "csp_Anime1"
     },
-
-    {
-      "key": "csp_FirstAid",
-      "name": "🚑┃急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1"
-    },
+  
     {
       "key": "酷奇",
       "name": "🎤┃酷奇┃MV",
@@ -373,7 +381,7 @@
     },
 
    
-         {
+      {
             "key": "快看",
             "name": "快看",
             "type": 3,
@@ -485,14 +493,7 @@
       "quickSearch": 1,
       "filterable": 1
     },  
-    {
-      "key": "drpy_哔哩",
-      "name": "🅱┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "playerType": 1,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"
-    },
+
     {
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
