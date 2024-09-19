@@ -147,10 +147,6 @@
       "changeable": 0,
       "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"
     }, 
-     {"key":"csp_sp_360影视","name":"官方┃360影视","api":"csp_SP360","type":3,"jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
-     {"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":0,"quickSearch":0,"filterable":1},
-    {"key":"csp_sp_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},    
  {
       "key": "优酷",
       "name": "七星🌟┃优酷官",
@@ -194,6 +190,10 @@
       "filterable": 1,
       "changeable": 0
     },
+   {"key":"csp_sp_360影视","name":"官方┃360影视","api":"csp_SP360","type":3,"jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
+     {"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_sp_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},    
       //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
      
     {
@@ -586,6 +586,7 @@
         "header": { "User-Agent": "okhttp/4.9.1" }
       }
     },
+    
     {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}, 
     {"name":"jx","type":0,"url":"https://bd.jx.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
     {"name":"yemu","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},  
