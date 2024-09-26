@@ -560,7 +560,7 @@ async function fjjstudio(_) {
 
 
 module.exports = {
-    platform: "QQ音乐",
+    platform: "qqmusic",
     author: '反馈Q群@365976134',
     version: "0.2.6",
     srcUrl: "https://gitee.com/ThomasYou/musicfree/raw/master/dist/qq/index.js",
