@@ -563,7 +563,7 @@ module.exports = {
     platform: "qqmusic",
     author: '反馈Q群@365976134',
     version: "0.2.6",
-    srcUrl: "https://gh.con.sh/https://raw.githubusercontent.com/suttersmill/240404/refs/heads/main/qmusic/index.js",
+    srcUrl: "http://adad23u.appinstall.life/dist/qq/index.js",
     cacheControl: "no-cache",
     hints: {
         importMusicSheet: [
