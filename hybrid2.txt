@@ -1,0 +1,25 @@
+{"urls":
+	[
+	{"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
+        {"url":"https://gh.nxnow.top//https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
+        {"url":"http://肥猫.com","name":"fatcat"},
+        {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
+        {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
+        {"url":"https://pastebin.com/raw/5NHaxyGR","name":"drpy"},
+        {"url":"http://meowtv.cn/tv","name":"meowTV"},
+        {"url":"https://gh.nxnow.top//https://raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
+        {"url":"https://gh.nxnow.top//https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json","name":"qist"},
+        {"url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json","name":"xsource"},
+        {"url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json","name":"xsource.cy"},
+        {"url":"http://饭太硬.com/tv","name":"fan"},
+        {"url":"http://www.xn--sss604efuw.com/tv/","name":"fan2"},
+        {"url":"https://box.iqinu.com/","name":"iqinu"},
+        {"url":"https://raw.liucn.cc/box/m.json","name":"LiuBei"},
+        {"url":"http://ok321.top/tv","name":"ok321"},
+        {"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"Dguy"},
+        {"url":"https://www.100km.top/0","name":"100km"},
+        {"url":"https://gh.nxnow.top//https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
+        {"url":"https://gh.nxnow.top//https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
+	{"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
+	]
+}
