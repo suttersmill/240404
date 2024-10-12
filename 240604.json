@@ -204,7 +204,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "ghp.ci/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
     {
       "key": "alist(gh)",
