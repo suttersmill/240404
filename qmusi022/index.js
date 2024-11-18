@@ -487,7 +487,7 @@ module.exports = {
     platform: "QQ音乐",
     author: "猫头猫",
     version: "0.2.2-alpha.3",
-    srcUrl: "https://raw.sweetrx.ir/rxsweet/proxies/main/music/dist/qq/index.js",
+    srcUrl: "https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/refs/heads/main/qmusi022/index.js",
     cacheControl: "no-cache",
     hints: {
         importMusicSheet: [
