@@ -484,7 +484,7 @@ async function getMusicSheetInfo(sheet, page) {
     };
 }
 module.exports = {
-    platform: "QQ音乐",
+    platform: "qmusic022",
     author: "猫头猫",
     version: "0.2.2-alpha.3",
     srcUrl: "https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/refs/heads/main/qmusi022/index.js",
