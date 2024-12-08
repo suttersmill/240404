@@ -654,7 +654,7 @@ async function getMusicComments(musicItem) {
 }
 
 module.exports = {
-  platform: "bilibili",
+  platform: "bili022",
   appVersion: ">=0.0",
   version: "0.2.2",
   author: "猫头猫",
