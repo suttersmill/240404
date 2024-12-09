@@ -20,6 +20,6 @@
         {"url":"https://www.100km.top/0","name":"100km"},
         {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
         {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
-	{"url":"https://gh4u.pages.dev/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
+	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
 	]
 }
