@@ -767,9 +767,6 @@ Local,#genre#
 浙江｜龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
 
 HKTW,#genre#
-凤凰中文,
-凤凰资讯,
-凤凰香港,
 凤凰卫视,http://dns.yiandrive.com:16813/phenix/fhzw#https://hls.xhzb.tw/4987/phoenixtv_hd/playlist.m3u8?type=fdc#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8#http://122.224.232.218:8888/rtp/233.50.200.191:5140#http://171.88.42.147:8888/udp/239.93.0.162:2192#http://60.164.228.49:4040/udp/239.255.30.50:8231
 凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8#http://60.164.228.49:4040/udp/239.255.30.70:8231
 凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk#http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8#http://171.108.239.77:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0#http://60.164.228.49:4040/udp/239.255.30.123:8231
