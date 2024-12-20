@@ -23,13 +23,7 @@
       "searchable": 0
     },
 
-    {
-      "key": "nangua",
-      "name": "南瓜┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/ng_open.js"
-    },
+
         {
       "key": "兄弟",
       "name": "兄弟┃影视",
@@ -59,7 +53,19 @@
 //{"key":"文采","name":"wencai┃秒播","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},        
 {"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},      
 {"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"},  
-
+    {
+      "key": "csp_SuBaiBai",
+      "name": "🏳️┃素白┃影视",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "ext": "http://subaibai.com"
+    },
+    {
+      "key": "csp_Jpyy",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpyy"
+    },
    {
       "key": "huohuo",
       "name": "火火",
@@ -158,7 +164,7 @@
      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main//lib/youku.js"
     },
-        {
+      //  {
       "key": "腾讯",
       "name": "七星🌟┃腾讯官",
       "type": 3,
@@ -166,7 +172,7 @@
       "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",     
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/tengxun.js"
     },
-    {
+   // {
       "key": "芒果",
       "name": "七星🌟┃芒果官",
       "type": 3,
@@ -174,7 +180,7 @@
        "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/mangguo.js"
     },
-    {
+   // {
       "key": "搜狗",
       "name": "七星🌟┃搜狗官",
       "type": 3,
@@ -182,7 +188,7 @@
       "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar", 
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/caigou.js"
     },
-    {
+   // {
       "key": "360影视",
       "name": "七星🌟┃叁六零",
       "type": 3,
