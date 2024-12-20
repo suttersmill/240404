@@ -1,6 +1,6 @@
 {"urls":
 	[
-	{"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"channel1"},
+	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"channel1"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"channel2"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel3"},
         {"url":"http://肥猫.com","name":"fatcat"},
@@ -20,7 +20,7 @@
         {"url":"https://download.kstore.space/download/2883/nzk/nzk0722.json","name":"Dguy"},
         {"url":"https://www.100km.top/0","name":"100km"},
         {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name":"xyqonline"},
-        {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
-	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
+       // {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/woai.json","name":"woai"},
+       //{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/影视/api.json","name":"pizazzGY"}
 	]
 }
