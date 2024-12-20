@@ -1,7 +1,7 @@
 {"urls":
 	[
-	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
-        {"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
+	{"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"240524"},
+        {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"240604"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
         {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
