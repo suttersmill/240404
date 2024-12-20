@@ -1,6 +1,6 @@
 {"urls":
 	[
-	{"url":"https://gh4u.pages.dev/https://raw.githubusercontent.com/suttersmill/240404/main/2400604.json","name":"channel 1"},
+	{"url":"https://git.669966.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/2400604.json","name":"channel 1"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel 2"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
