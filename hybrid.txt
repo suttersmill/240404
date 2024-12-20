@@ -1,8 +1,8 @@
 {"urls":
 	[
-	{"url":"https://gh.qninq.cn/https://raw.githubusercontent.com/suttersmill/240404/main/2400604.json","name":"channel1"},
+	//{"url":"https://gh.qninq.cn/https://raw.githubusercontent.com/suttersmill/240404/main/2400604.json","name":"channel1"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel2"},
-        {"url":"https://gh.catmak.name/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel3"},
+        //{"url":"https://gh.catmak.name/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel3"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
         {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
