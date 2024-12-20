@@ -30,7 +30,14 @@
       "type": 3,
       "api": "csp_Jpyy"
     },
-
+      {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
 {"key":"低端","name":"低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1721554716065/fan.txt;md5;71d846866f2ceb9666ba114e5963983f"}, 
 {"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},      
      {
@@ -248,32 +255,6 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js"
     },
        {
-            "key": "快看",
-            "name": "快看",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-            "changeable": 1
-        },
-        {
-      "key": "比特",
-      "name": "✌️️┃比特┃影视",
-      "type": 3,
-      "api": "csp_Bttwo",
-      "jar": "http://js.xn--z7x900a.com/PandaQ240816.jar;md5;5f75ec13c1435ce43a239bb5fe8d8c75"
-    },
-    {
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "2",
-      "ext": "http://api2.rinhome.com"
-    },
-       {
       "key": "厂长",
       "name": "🏭┃厂长┃影视",
       "type": 3,
@@ -284,15 +265,6 @@
       "filterable": 1,
       "ext": "https://czzy.top/"
     }, 
-     {
-      "key": "csp_SC1080",
-      "name": "🏰┃圣城┃影视",
-      "type": 3,
-      "api": "csp_SC1080",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },  
     {
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
