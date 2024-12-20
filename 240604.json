@@ -6,12 +6,7 @@
 {"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00",
  // "spider": "http://1.95.79.193/PandaQ241006.jar;md5;4352ec15dbd1601f601249f831c2e87c",  
- //"spider": "http://1.95.79.193/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106",
- //"spider": "http://js.xn--z7x900a.com/PandaQ240907.jar;md5;d88a448a8b03feb2a04fcc3410dd517a",  
- //"spider": "http://js.xn--z7x900a.com/PandaQ240816.jar;md5;5f75ec13c1435ce43a239bb5fe8d8c75",
- //"spider": "http://happy.xn--z7x900a.com/jar/PandaQ240805.jar;md5;7f69a60f49cba319a30896e6681c798a",
-  //"spider": "https://like.xn--z7x900a.com/jar/PandaQ240727.jar;md5;df2f10384aab33229e15dbfb77f02edf",  
-  //"spider": "https://like.xn--z7x900a.com/jar/PandaQ240713.jar;md5;d78e744411c59f40e8099bf56fa425d2",
+
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "logo": "http://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
@@ -160,7 +155,7 @@
      "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main//lib/youku.js"
     },
-      //  {
+      //{
       "key": "腾讯",
       "name": "七星🌟┃腾讯官",
       "type": 3,
@@ -168,7 +163,7 @@
       "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",     
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/tengxun.js"
     },
-   // {
+   //{
       "key": "芒果",
       "name": "七星🌟┃芒果官",
       "type": 3,
@@ -176,7 +171,7 @@
        "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar",
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/mangguo.js"
     },
-   // {
+   //{
       "key": "搜狗",
       "name": "七星🌟┃搜狗官",
       "type": 3,
@@ -184,7 +179,7 @@
       "jar": "https://gitlab.com/tvtg/qx/-/raw/main/qxyc.jar", 
       "ext": "https://gitlab.com/tvtg/qx/-/raw/main/lib/caigou.js"
     },
-   // {
+   //{
       "key": "360影视",
       "name": "七星🌟┃叁六零",
       "type": 3,
@@ -195,10 +190,10 @@
       "filterable": 1,
       "changeable": 0
     },
-  // {"key":"csp_sp_360影视","name":"官方┃360影视","api":"csp_SP360","type":3,"jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
-  //   {"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},
-   // {"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":0,"quickSearch":0,"filterable":1},
-   // {"key":"csp_sp_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},    
+  //{"key":"csp_sp_360影视","name":"官方┃360影视","api":"csp_SP360","type":3,"jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","filterable":1,"quickSearch":1,"searchable":1,"ext":""}, 
+  //{"key":"csp_sp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},
+   //{"key":"csp_sp_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":0,"quickSearch":0,"filterable":1},
+   //{"key":"csp_sp_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","jar":"http://tv.iqinu.com/jar/lm0829.jar;md5;6442a8222672df1dcf56458ab6c3b3fa","searchable":1,"quickSearch":1,"filterable":1},    
       //{"key":"剧圈圈","name":"🇹剧圈┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1, "jar": "./custom_spider_20240407_4_0426__notc.tms;md5;cddfe963d003becd2c3e60f01cae86a5","ext":"https://gitlab.com/mfkdy/cy/-/raw/main/XBPQ/剧圈圈.json"},
      
     {
