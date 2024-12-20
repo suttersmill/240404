@@ -1,6 +1,6 @@
 {"urls":
 	[
-	{"url":"https://gh.qninq.cn/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"channel1"},
+	{"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"channel1"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"channel2"},
         {"url":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel3"},
         {"url":"http://肥猫.com","name":"fatcat"},
