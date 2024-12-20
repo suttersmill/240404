@@ -269,9 +269,7 @@
       "playerType": 1,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js"
     },
-
-   
-      {
+       {
             "key": "快看",
             "name": "快看",
             "type": 3,
@@ -308,42 +306,7 @@
       "filterable": 1,
       "ext": "https://czzy.top/"
     }, 
-        {
-      "key": "毛驴",
-      "name": "🦙┃毛驴┃影视",
-      "type": 3,
-      "api": "csp_MaoLv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "可可",
-      "name": " 😝┃可可┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
-      "key": "云播影视",
-      "name": "☁️┃云播┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
-      "ext": "http://js.xn--z7x900a.com/js/TVB云播.js"
-    },
-    {
-      "key": "csp_Xb6v",
-      "name": "🐤┃6V磁力┃影视",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "playerType": "2"
-    },
-
-   {
+     {
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
