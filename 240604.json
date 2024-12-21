@@ -103,7 +103,7 @@
       "ext": "https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
       {"key":"🚨AList","name":"AList ql","type":3,"api":"csp_AList","ext":"https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json","searchable":1,"changeable":0,"jar":"https://www.xn--rgv465a.top//box/spider/pg.jar"},
- {"key":"课外百科","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
+ {"key":"课外","name":"课外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://gh.hlg.us.kg/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
 {
 "key": "小学课外",
 "name": "小学课外",
@@ -112,7 +112,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
-"ext": "http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
+"ext": "http://gh.hlg.us.kg/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
 },
    {
       "key": "小学",
