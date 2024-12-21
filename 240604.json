@@ -36,6 +36,13 @@
       "playerType": "1",
       "ext": "http://api2.rinhome.com"
     },
+          {
+      "key": "csp_Gz360",
+      "name": "🍉┃瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "playerType": 2
+    },
      {
       "key": "csp_Nongm",
       "name": "🌾️┃农民┃影视",
@@ -259,17 +266,6 @@
       "playerType": 1,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js"
     },
-       {
-      "key": "厂长",
-      "name": "🏭┃厂长┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://czzy.top/"
-    }, 
     {
       "key": "儿童",
       "name": "📚┃儿童┃启蒙",
@@ -297,20 +293,6 @@
         "ratio": 1.597
       },
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
-    },
-       {
-      "key": "米搜",
-      "name": "🌖┃米搜┃网盘",
-      "type": 3,
-      "api": "csp_MiSou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt"
-    },
-    {
-      "key": "csp_Pansou",
-      "name": "🚢┃盘搜┃网盘",
-      "type": 3,
-      "api": "csp_Pansou",
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "csp_PanSearch",
