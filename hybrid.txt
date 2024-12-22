@@ -1,9 +1,9 @@
 {"urls":
 	[
-	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"channel1"},
-        {"url":"https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel2"},
-        {"url":"http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"channel3"},
-        {"url":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"channel4"},
+	{"url":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"line1"},
+        {"url":"https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line2"},
+        {"url":"http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"line3"},
+        {"url":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line4"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
         {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
