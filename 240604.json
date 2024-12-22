@@ -112,6 +112,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
+ "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",     
 "ext": "https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
 },
    {
@@ -126,6 +127,7 @@
         "type": "rect",
         "ratio": 1.597
       },
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf", 
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
     },
     {
@@ -140,6 +142,7 @@
         "type": "rect",
         "ratio": 1.597
       },
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",  
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
     }, 
          {
@@ -154,6 +157,7 @@
         "type": "rect",
         "ratio": 1.597
       },
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",        
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     }, 
      {
@@ -292,6 +296,7 @@
         "type": "rect",
         "ratio": 1.597
       },
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",  
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
     },
 {"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
