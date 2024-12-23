@@ -99,9 +99,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh4u.pages.dev/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
+      "ext": "https://ghgo.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
-      {"key":"🚨AList","name":"AList wujie","type":3,"api":"csp_AList","ext":"https://gh.nxnow.top/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json","searchable":1,"changeable":0,"jar":"https://www.xn--rgv465a.top//box/spider/pg.jar"},
+      {"key":"🚨AList","name":"AList wujie","type":3,"api":"csp_AList","ext":"https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json","searchable":1,"changeable":0,"jar":"https://www.xn--rgv465a.top//box/spider/pg.jar"},
  {"key":"课外学习","name":"课外学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghgo.xyz/raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
 {
 "key": "小学课外",
@@ -290,10 +290,10 @@
       },
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/suttersmill/EXT/refs/heads/main/小学课堂.json"}},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"https://ghgo.xyz/raw.githubusercontent.com/suttersmill/EXT/refs/heads/main/小学课堂.json"}},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
 {"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/suttersmill/240404/refs/heads/main/EXT/小学课堂.json"}},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"https://ghgo.xyz/raw.githubusercontent.com/suttersmill/240404/refs/heads/main/EXT/小学课堂.json"}},
     {
       "key": "csp_PanSearch",
       "name": "🚃┃盘搜┃网盘",
