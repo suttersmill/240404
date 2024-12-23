@@ -85,7 +85,7 @@
         "changeable": 1,
         "categories": ["日剧", "马泰剧", "内地剧", "欧美剧", "香港剧", "韩剧", "台湾剧", "恐怖片", "动画片", "剧情片", "战争片", "动作片", "记录片", "爱情片", "喜剧片", "科幻片", "灾难片", "悬疑片", "犯罪片", "中国动漫", "日本动漫", "欧美动漫"]
     },  
-{"key":"py_cctvdc","name":"央视片库","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"playerType": 1,"filterable":1,"jar":"https://530.my3v.work/lib/fff.json;md5;c84c36278bd8bc95a63449a128074be0","ext":"https://530.my3v.work/lib/py_cctvdc.json"},
+{"key":"py_cctvdc","name":"央视片库","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"playerType":1,"filterable":1,"jar":"https://530.my3v.work/lib/fff.json;md5;c84c36278bd8bc95a63449a128074be0","ext":"https://530.my3v.work/lib/py_cctvdc.json"},
        {
       "key": "alist",
       "name": "🍰┃小鸭┃网盘",
