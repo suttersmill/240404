@@ -131,7 +131,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar":"https://ghgo.xyz/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar", 
+      "jar":"https://cdn.moran233.xyz/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar", 
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
     },
     {
@@ -146,7 +146,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-     "jar":"./jar/xyqonline.jar",  
+     "jar":"https://ghgo.xyz/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar",  
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
     }, 
          {
