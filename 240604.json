@@ -107,7 +107,7 @@
       "ext": "https://ql.133.info/raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
       {"key":"aList11","name":"AList11","type":3,"api":"csp_AList","ext":"https://11.suttersmill.eu.org/raw.githubusercontent.com/suttersmill/240404/main/json/alist.json","searchable":1,"changeable":0},
- {"key":"课外","name":"课外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar": "https://ghgo.xyz/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c","ext":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
+ {"key":"课外","name":"课外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar": "https://11.suttersmill.eu.org/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c","ext":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
 {
 "key": "小学课外",
 "name": "小学课外",
@@ -116,8 +116,8 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
- "jar": "https://ghgo.xyz/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
-"ext": "https://cdn.moran233.xyz/raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
+ "jar": "https://11.suttersmill.eu.org/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
+"ext": "https://11.suttersmill.eu.org/raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
 },
    {
       "key": "小学",
@@ -131,7 +131,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "jar":"https://cdn.moran233.xyz/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar", 
+      "jar":"https://11.suttersmill.eu.org/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar", 
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"
     },
     {
@@ -146,7 +146,7 @@
         "type": "rect",
         "ratio": 1.597
       },
-     "jar":"https://ghgo.xyz/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar",  
+     "jar":"https://11.suttersmill.eu.org/github.com/suttersmill/240404/raw/refs/heads/main/jar/xyqonline.jar",  
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"
     }, 
          {
