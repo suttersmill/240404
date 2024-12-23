@@ -72,10 +72,10 @@
         "changeable": 1,
         "categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "港澳剧", "日剧", "欧美剧", "台湾剧", "泰剧", "韩剧", "纪录片", "动漫电影"]
     },
-        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽.js"},
-        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷.js"},
-        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果.js"},  
+        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾云驾雾.js"},
+        {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/百忙无果.js"},  
     {
         "key": "极速资源",
         "name": "🎀极速|采集",
