@@ -103,7 +103,7 @@
       "ext": "https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json"
     },
       {"key":"aList11","name":"AList11","type":3,"api":"csp_AList","ext":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/json/alist.json","searchable":1,"changeable":0},
- {"key":"课外","name":"课外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
+ {"key":"课外","name":"课外","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar": "https://ghgo.xyz/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c","ext":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js"},    
 {
 "key": "小学课外",
 "name": "小学课外",
@@ -112,7 +112,7 @@
 "searchable": 0,
 "quickSearch": 0,
 "filterable": 1,
- "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",     
+ "jar": "https://ghgo.xyz/github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c",
 "ext": "https://cdn.moran233.xyz/https://raw.githubusercontent.com/suttersmill/240404/main/js/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A4%96.js" 
 },
    {
