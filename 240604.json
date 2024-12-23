@@ -288,25 +288,10 @@
       },
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
     },
-    {
-      "key": "少儿",
-      "name": "📚┃少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734718322178/fan.txt;md5;262a678665ac3d5c727a8c812b31dfdf",  
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"
-    },
-{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
-{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
-{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
-{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}}, 
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/xyqonline.jar","ext":{"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"}},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/xyqonline.jar","ext":{"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"}},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/xyqonline.jar","ext":{"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/xyqonline.jar","ext":{"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}}, 
     {
       "key": "csp_PanSearch",
       "name": "🚃┃盘搜┃网盘",
