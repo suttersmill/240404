@@ -5,7 +5,7 @@
         {"url":"http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"line3"},
         {"url":"https://11.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line4"},
         {"url":"http://肥猫.com","name":"fatcat"},
-        {"url":"http://www.mpanso.com/小米/DEMO.json","name":"xiaomi"},
+        {"url":"https://drpys.6516789.xyz/config/1","name":"drpy"},
         {"url":"http://tvbox.王二小放牛娃.top","name":"wangxiaoer"},
         {"url":"https://pastebin.com/raw/5NHaxyGR","name":"drpy"},
         {"url":"http://meowtv.cn/tv","name":"meowTV"},
