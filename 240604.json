@@ -53,7 +53,7 @@
 {"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"},      
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"}, 
 {"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"api":"csp_JPJ","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"},      
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/f01242.txt"}, 
+{"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/f01242.txt"}, 
 {"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},      
      {
       "key": "csp_瓜子",
