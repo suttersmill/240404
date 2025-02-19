@@ -1,8 +1,8 @@
 {"urls":
 	[
 	{"url":"https://gh.suttersmill.eu.org/raw.githubusercontent.com/suttersmill/240404/main/240524.json","name":"line1"},
-        {"url":"https://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line2"},
-        {"url":"http://ql.133.info/https://raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"line3"},
+        {"url":"https://gh.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line2"},
+        {"url":"https://gh.suttersmill.eu.org/raw.githubusercontent.com/suttersmill/240404/main/240612.json","name":"line3"},
         {"url":"https://gh.suttersmill.eu.org/https://raw.githubusercontent.com/suttersmill/240404/main/240604.json","name":"line4"},
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.饭太硬.com/tv","name":"fan"},
