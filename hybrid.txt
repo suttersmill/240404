@@ -8,7 +8,7 @@
         {"url":"http://www.饭太硬.com/tv","name":"fan"},
         {"url":"http://meowtv.cn/tv","name":"meowTV"},
         {"url":"http://宝盒接口.top"},
-        {"url":"https://gh.suttersmill.eu.org/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json","name":"qist"},
+        {"url":"https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json","name":"qixing"},
         {"url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json","name":"xsource"},
         {"url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json","name":"xsource.cy"},
         {"url":"http://www.xn--sss604efuw.com/tv/","name":"fan2"},
