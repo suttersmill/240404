@@ -7,7 +7,7 @@
         {"url":"http://肥猫.com","name":"fatcat"},
         {"url":"http://www.饭太硬.com/tv","name":"fan"},
         {"url":"http://meowtv.cn/tv","name":"meowTV"},
-        {"url":"https://gh.suttersmill.eu.org/raw.githubusercontent.com/T00700/TVBoxSE/master/FongMi.json","name":"FongMi"},
+        {"url":"http://宝盒接口.top"},
         {"url":"https://gh.suttersmill.eu.org/https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json","name":"qist"},
         {"url":"https://gitlab.com/mfkdy/vip/-/raw/main/Lite.json","name":"xsource"},
         {"url":"https://gitlab.com/mfkdy/cy/-/raw/main/Lite.json","name":"xsource.cy"},
