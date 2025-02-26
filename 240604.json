@@ -14,6 +14,18 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+       {
+      "key": "荐片",
+      "name": "七星🌟┃秒播⒈",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "https://11256.kstore.space/lib/drpy2.min.js",
+      "jar": "https://11256.kstore.space//qxyc.jar",
+      "ext": "https://11256.kstore.space/lib/jp.js"
+    },
  {
       "key": "文才弹幕",
       "name": "弹幕文才┃秒看",
