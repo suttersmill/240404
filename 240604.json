@@ -46,14 +46,6 @@
       "api": "csp_Jpyy",
       "playerType": "1"  
             },
-      {
-      "key": "荐片",
-      "name": "🎬┃荐片┃影视",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "playerType": "1",
-      "ext": "http://api2.rinhome.com"
-    },
           {
       "key": "csp_Gz360",
       "name": "🍉┃瓜子┃影视",
