@@ -16,7 +16,7 @@
     },
        {
       "key": "荐片",
-      "name": "七星🌟┃秒播",
+      "name": "七星🌟┃秒播1",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -28,9 +28,10 @@
     },
          {
       "key": "红狐狸影院",
-      "name": "七星🌟┃秒播",
+      "name": "七星🌟┃秒播2",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://11256.kstore.space//qxyc.jar",
       "ext": {
         "简介": "+line-height: 20px;\">&&</div>",
         "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
