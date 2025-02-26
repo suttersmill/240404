@@ -14,13 +14,18 @@
       "api": "csp_Douban",
       "searchable": 0
     },
-        {
-      "key": "csp_SuBaiBai",
-      "name": "🏳️┃素白┃影视",
+ {
+      "key": "文才弹幕",
+      "name": "弹幕文才┃秒看",
       "type": 3,
-      "api": "csp_SuBaiBai",
-      "ext": "http://subaibai.com"
-         },
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
     {
       "key": "csp_Jpyy",
       "name": "🥇️┃金牌┃影视",
