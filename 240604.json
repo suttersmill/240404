@@ -22,6 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/bhtw.jar",
       "ext": {
         "danmu": true
       }
