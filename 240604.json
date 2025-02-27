@@ -55,6 +55,7 @@
             "key": "360资源",
             "name": "🌚360┃资源",
             "type": 1,
+            "playerType": "1",
             "api": "https://360zy.com/api.php/provide/vod",
             "categories": [
                 "国产剧",
