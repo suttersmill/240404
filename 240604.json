@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/bhtw.jar",
+      "jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
       "ext": {
         "danmu": true
       }
