@@ -3,9 +3,14 @@
 //  欢迎加入肥羊影音数码综合交流群：https://t.me/feiyangdigital
 //  奈飞、YouTuBe、HBO、Disney、ChatGPT、Apple TV、家庭影音搭建必备品：https://hezu.v1.mk
 
-{"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
-  "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
-  "logo": "http://like.xn--z7x900a.com/panda/0262.png",
+{ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
+  "wallpaper": "./ppic/feimao.php",
+  "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
+ // "spider": ".jar/spider.jar",
+ // "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+  //"wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
+  //"logo": "http://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -14,109 +19,126 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+     {
+      "key": "行动",
+      "name": "😌┃行动┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
+        "dataKey": "xasdasdqwertyuio",
+        "siteApi": "get",
+        "version": "304"
+      }
+    },
+     {
+      "key": "仓鼠",
+      "name": "🐹┃耗子┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "siteApi": "qiji",
+        "version": ""
+      }
+    },
+        {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "http://huohu.yihn.cc",
+        "dataKey": "huohushipingetap",
+        "siteApi": "get",
+        "version": "140"
+      }
+    },
        {
-      "key": "荐片",
-      "name": "七星秒播1",
+      "key": "黑猫",
+      "name": "🐼┃黑猫┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://dm.xxdm123.top:9991",
+        "dataKey": "0fe3b5781782c621",
+        "siteApi": "get",
+        "version": "203"
+      }
+    },
+      {
+      "key": "csp_Jpys",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys"
+    },
+    
+    {
+      "key": "黑狐",
+      "name": "🦊1080P┃黑狐",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": "1",
-      "api": "https://11256.kstore.space/lib/drpy2.min.js",
-      "jar": "https://11256.kstore.space//qxyc.jar",
-      "ext": "https://11256.kstore.space/lib/jp.js"
-    },
-      {
-    "key": "狐狸君",
-    "name": "狐君4K",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "changeable": 1,
-    "searchable": 1,
-    "playerType": "1",
-    "quickSearch": 1,
-    "filterable": 1,
-    "jar": "https://codeberg.org/suttersmill/20250525/raw/branch/main/jar.php",
-    "ext": {
+      "jar": "./jar/赞赞.jar",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "黑狐影院",
+        "主页url": "http://fagmn.com",
+        "数组": "class=\"stui-vodlist__box\"&&</a",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/hls/#php",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
         "搜索模式": "1",
-        "搜索url": "https://www.foxjun.com/s/?q={wd}",
-        "搜索数组": "class=\"media\">&&/div>",
-        "搜索图片": "src=\"&&\"",
-        "搜索标题": "《&&》",
-        "搜索副标题": "》&&\"",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
         "搜索链接": "href=\"&&\"",
-        "标题": "《&&》",
-        "副标题": "》&&\"",
-        "影片年代": "上映日期：&&</p>",
-        "影片类型": "类型：&&</p>",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+        "线路标题": ">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+        "状态": "地区：&&</p>",
+        "导演": "导演：&&</p>",
         "主演": "主演：&&</p>",
-        "简介": "简介：&&</p>",
-        "播放数组": "<tbody>&&</tbody>",
-        "播放列表": "<a&&/a>[包含:magnet]",
+        "简介": "简介：&&</div>",
+        "播放列表": "<a&&/a>",
         "播放标题": ">&&<",
         "播放链接": "href=\"&&\"",
-        "分类url": "https://www.foxjun.com/channel/{cateId}.html?apage1={catepg}",
-        "分类": "国产剧$guochanju#电影$dianying#动画$donghua#美欧剧$meiouju#日韩剧$rihanju"
-    }
-},
-         {
-      "key": "红狐狸影院",
-      "name": "七星秒播2",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://11256.kstore.space//qxyc.jar",
-      "ext": {
-        "简介": "+line-height: 20px;\">&&</div>",
-        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-        "分类": "短剧$35#电影$1#连续剧$2#动漫$4#综艺$3"
+        "免嗅": "0",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
     },
+    {
+      "key": "荐片",
+      "name": "🎬┃荐片┃影视",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
+    },
+ 
  {
       "key": "文才弹幕",
-      "name": "wencai",
+      "name": "文才┃秒看",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://raw.kkgithub.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
+      "jar": "https://jihulab.com/bhjk1/vip/-/raw/main/bhtw.jar",
       "ext": {
         "danmu": true
       }
     },
-       {
-            "key": "360资源",
-            "name": "🌚360┃资源",
-            "type": 1,
-            "playerType": "1",
-            "api": "https://360zy.com/api.php/provide/vod",
-            "categories": [
-                "欧美剧",
-                "纪录片",
-                "韩国剧",
-                "欧美剧",
-                "大陆综艺",
-                "台湾剧",
-                "西部片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "NBA",
-                "惊悚片",
-                "家庭篇",
-                "古装片",
-                "历史片",
-                "悬疑片",
-                "犯罪片",
-                "纪录片",
-                "台湾剧",
-                "大陆综艺",
-                "国产动漫",
-                "日韩动漫",
-                "西部片"
-            ]
-        },
     {
       "key": "csp_Jpyy",
       "name": "🥇️┃金牌┃影视",
@@ -142,18 +164,8 @@
 {"key":"original","name":"original","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"}, 
 {"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"api":"csp_JPJ","playerType":1,"searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf"},      
 {"key":"原创","name":"原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/f01242.txt"}, 
-{"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.jar"},      
-     {
-      "key": "csp_瓜子",
-      "name": "瓜子",
-      "api": "csp_Gz360",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724936798422/xpg1.jar;md5;d982e61fe8a00da65435afd86938d2da",   
-      "type": 3,
-      "searchable": 1,
-      "playerType": 1,
-      "timeout": 30,
-      "changeable": 0
-    }, 
+{"key":"文采","name":"文采┃noad","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan.txt"},      
+
       {
         "key": "红牛资源",
         "name": "🎀红牛|采集",
