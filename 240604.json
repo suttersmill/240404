@@ -142,7 +142,7 @@
 "name":"文采影视",
 "type":3,
 "api":"csp_JpysGuard",
-"jar": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/fan.jar",     
+//"jar": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/fan.jar",     
 "timeout":10,
 "playerType":1,
 "searchable":1,
