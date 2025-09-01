@@ -3,9 +3,10 @@
 //  欢迎加入肥羊影音数码综合交流群：https://t.me/feiyangdigital
 //  奈飞、YouTuBe、HBO、Disney、ChatGPT、Apple TV、家庭影音搭建必备品：https://hezu.v1.mk
 
-{ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",
+{ "spider":"./fan.jar",
   "wallpaper": "./ppic/feimao.php",
   "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
+ // "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",    
  // "spider": ".jar/spider.jar",
  // "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
