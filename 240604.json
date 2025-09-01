@@ -6,12 +6,6 @@
 { "spider":"./fan.jar",
   "wallpaper": "./ppic/feimao.php",
   "logo": "https://6296.kstore.vip/9c633894549b4d2677774e402cedf6e819462bf1-min.gif",
- // "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1753445349681/PandaQ0725.jpg;md5;4bb05945b726cf06209fb3b562f6aa83",    
- // "spider": ".jar/spider.jar",
- // "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
-  //"wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
-  //"logo": "http://like.xn--z7x900a.com/panda/0262.png",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -142,7 +136,6 @@
 "name":"文采影视",
 "type":3,
 "api":"csp_JpysGuard",
-//"jar": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/fan.jar",     
 "timeout":10,
 "playerType":1,
 "searchable":1,
